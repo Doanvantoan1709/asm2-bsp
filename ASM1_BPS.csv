@@ -1,0 +1,1001 @@
+﻿Product Group ID,Product Group Name,Description,Category,Target Market,Average Price Range,Key Features,Launch Date,Discontinuation Date,Market Share
+1,Computing,Headphones and wearables,Home Goods,Audiophiles,50$ - 200$,Camera,4/21/2023,N/A,30%
+2,Audio Equipment,Speakers and soundbars,Home Goods,Professionals,50$ - 200$,Touchscreen,1/12/2023,N/A,25%
+3,Computing,Smartphones and tablets,Home Goods,General Public,100$ - 300$,Durable,9/17/2022,N/A,20%
+4,Mobile Devices,Laptops and desktops,Electronics,Families,100$ - 300$,Camera,2/2/2023,N/A,50%
+5,Audio Equipment,Smartphones and tablets,Home Goods,General Public,50$ - 200$,Durable,8/14/2022,N/A,20%
+6,Accessories,Laptops and desktops,Electronics,Youth,70$ - 310$,Smart Connectivity,6/2/2023,N/A,15%
+7,Accessories,Speakers and soundbars,Electronics,Families,30$ - 99$,Wireless,2/9/2023,N/A,5%
+8,Home Appliances,Speakers and soundbars,Home Goods,Audiophiles,350$ - 500$,Camera,8/2/2022,N/A,10%
+9,Audio Equipment,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,High Performance,5/23/2023,N/A,15%
+10,Accessories,Speakers and soundbars,Home Goods,Professionals,200$ - 500$,Durable,7/11/2022,N/A,25%
+11,Home Appliances,Headphones and wearables,Electronics,Youth,200$ - 500$,Durable,5/29/2023,N/A,30%
+12,Computing,Speakers and soundbars,Home Goods,Professionals,200$ - 500$,High Performance,8/17/2022,N/A,10%
+13,Home Appliances,Smart home devices,Electronics,Professionals,70$ - 310$,Wireless,5/30/2023,N/A,25%
+14,Audio Equipment,Smartphones and tablets,Home Goods,Audiophiles,200$ - 500$,High Performance,3/16/2023,N/A,35%
+15,Accessories,Headphones and wearables,Home Goods,Audiophiles,350$ - 500$,High Performance,9/20/2022,N/A,15%
+16,Accessories,Speakers and soundbars,Home Goods,Youth,50$ - 200$,Durable,5/14/2023,N/A,35%
+17,Audio Equipment,Smart home devices,Electronics,Families,30$ - 99$,Camera,11/29/2022,N/A,40%
+18,Mobile Devices,Laptops and desktops,Home Goods,General Public,30$ - 99$,Wireless,1/10/2023,N/A,10%
+19,Home Appliances,Headphones and wearables,Electronics,Professionals,50$ - 200$,Wireless,11/6/2022,N/A,5%
+20,Computing,Smart home devices,Home Goods,General Public,50$ - 200$,Camera,5/15/2023,N/A,5%
+21,Mobile Devices,Laptops and desktops,Electronics,Youth,100$ - 300$,High Performance,9/24/2022,N/A,5%
+22,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,70$ - 310$,Wireless,7/15/2022,N/A,25%
+23,Computing,Smartphones and tablets,Electronics,Families,70$ - 310$,Wireless,10/11/2022,N/A,35%
+24,Accessories,Smartphones and tablets,Home Goods,Families,70$ - 310$,Wireless,6/18/2022,N/A,10%
+25,Home Appliances,Speakers and soundbars,Home Goods,Families,100$ - 300$,Touchscreen,1/21/2023,N/A,5%
+26,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,50$ - 200$,High Fidelity Audio,1/12/2023,N/A,40%
+27,Accessories,Headphones and wearables,Home Goods,Audiophiles,350$ - 500$,High Fidelity Audio,8/18/2022,N/A,35%
+28,Computing,Speakers and soundbars,Home Goods,Youth,200$ - 500$,Smart Connectivity,1/9/2023,N/A,20%
+29,Mobile Devices,Headphones and wearables,Electronics,Youth,100$ - 300$,Touchscreen,7/13/2022,N/A,35%
+30,Audio Equipment,Laptops and desktops,Electronics,Youth,70$ - 310$,High Fidelity Audio,12/30/2022,N/A,30%
+31,Home Appliances,Laptops and desktops,Electronics,Youth,30$ - 99$,Touchscreen,1/10/2023,N/A,25%
+32,Mobile Devices,Headphones and wearables,Electronics,Youth,30$ - 99$,Durable,10/21/2022,N/A,30%
+33,Accessories,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,High Performance,2/1/2023,N/A,25%
+34,Mobile Devices,Speakers and soundbars,Home Goods,General Public,100$ - 300$,High Performance,4/30/2023,N/A,15%
+35,Computing,Laptops and desktops,Home Goods,Audiophiles,200$ - 500$,Touchscreen,3/25/2023,N/A,30%
+36,Audio Equipment,Headphones and wearables,Home Goods,Youth,100$ - 300$,Durable,4/6/2023,N/A,20%
+37,Accessories,Smart home devices,Electronics,Families,100$ - 300$,Touchscreen,11/15/2022,N/A,35%
+38,Accessories,Smart home devices,Electronics,General Public,70$ - 310$,Durable,8/1/2022,N/A,15%
+39,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,High Performance,5/9/2023,N/A,40%
+40,Audio Equipment,Headphones and wearables,Electronics,Youth,100$ - 300$,Smart Connectivity,9/22/2022,N/A,25%
+41,Home Appliances,Smart home devices,Home Goods,Audiophiles,30$ - 99$,Durable,1/30/2023,N/A,25%
+42,Audio Equipment,Smartphones and tablets,Electronics,Audiophiles,350$ - 500$,High Performance,12/3/2022,N/A,25%
+43,Computing,Headphones and wearables,Electronics,Audiophiles,30$ - 99$,Wireless,11/20/2022,N/A,50%
+44,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,70$ - 310$,Smart Connectivity,6/22/2022,N/A,15%
+45,Computing,Laptops and desktops,Home Goods,General Public,100$ - 300$,High Fidelity Audio,2/1/2023,N/A,15%
+46,Home Appliances,Smartphones and tablets,Electronics,Youth,350$ - 500$,Wireless,2/2/2023,N/A,30%
+47,Accessories,Headphones and wearables,Electronics,Audiophiles,70$ - 310$,Wireless,11/18/2022,N/A,20%
+48,Mobile Devices,Smartphones and tablets,Electronics,Youth,50$ - 200$,High Performance,2/20/2023,N/A,30%
+49,Accessories,Smartphones and tablets,Electronics,Professionals,350$ - 500$,Camera,5/16/2023,N/A,10%
+50,Accessories,Laptops and desktops,Home Goods,General Public,50$ - 200$,Smart Connectivity,5/10/2023,N/A,40%
+51,Mobile Devices,Laptops and desktops,Home Goods,General Public,100$ - 300$,Durable,4/17/2023,N/A,20%
+52,Audio Equipment,Smart home devices,Home Goods,General Public,70$ - 310$,Wireless,3/22/2023,N/A,20%
+53,Computing,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,High Fidelity Audio,8/18/2022,N/A,35%
+54,Computing,Smartphones and tablets,Electronics,Youth,100$ - 300$,Durable,9/24/2022,N/A,35%
+55,Audio Equipment,Headphones and wearables,Home Goods,Families,350$ - 500$,Camera,1/20/2023,N/A,50%
+56,Computing,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,Durable,8/17/2022,N/A,20%
+57,Audio Equipment,Laptops and desktops,Home Goods,Youth,30$ - 99$,High Fidelity Audio,12/16/2022,N/A,30%
+58,Audio Equipment,Speakers and soundbars,Electronics,Youth,200$ - 500$,Durable,6/10/2023,N/A,20%
+59,Computing,Smartphones and tablets,Home Goods,Families,200$ - 500$,High Performance,8/19/2022,N/A,15%
+60,Accessories,Smartphones and tablets,Home Goods,Youth,350$ - 500$,Camera,3/24/2023,N/A,15%
+61,Home Appliances,Smart home devices,Electronics,Youth,70$ - 310$,High Performance,8/29/2022,N/A,25%
+62,Mobile Devices,Smartphones and tablets,Electronics,Families,100$ - 300$,Durable,3/19/2023,N/A,20%
+63,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,30$ - 99$,Smart Connectivity,12/12/2022,N/A,30%
+64,Accessories,Laptops and desktops,Home Goods,Professionals,30$ - 99$,High Performance,1/17/2023,N/A,15%
+65,Accessories,Headphones and wearables,Home Goods,General Public,70$ - 310$,Wireless,10/12/2022,N/A,50%
+66,Home Appliances,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,Wireless,7/15/2022,N/A,40%
+67,Audio Equipment,Speakers and soundbars,Home Goods,Youth,100$ - 300$,High Performance,1/7/2023,N/A,25%
+68,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,High Fidelity Audio,6/9/2023,N/A,50%
+69,Computing,Headphones and wearables,Electronics,Families,200$ - 500$,Smart Connectivity,1/10/2023,N/A,10%
+70,Audio Equipment,Smartphones and tablets,Electronics,Audiophiles,30$ - 99$,Wireless,1/13/2023,N/A,10%
+71,Mobile Devices,Speakers and soundbars,Electronics,Families,30$ - 99$,Camera,8/12/2022,N/A,35%
+72,Audio Equipment,Smartphones and tablets,Electronics,General Public,350$ - 500$,High Performance,12/28/2022,N/A,40%
+73,Mobile Devices,Smart home devices,Electronics,Youth,200$ - 500$,Smart Connectivity,3/24/2023,N/A,30%
+74,Audio Equipment,Smartphones and tablets,Electronics,Youth,200$ - 500$,High Fidelity Audio,3/11/2023,N/A,35%
+75,Mobile Devices,Smart home devices,Home Goods,Audiophiles,30$ - 99$,Camera,1/23/2023,N/A,5%
+76,Audio Equipment,Laptops and desktops,Electronics,General Public,100$ - 300$,Camera,11/25/2022,N/A,35%
+77,Mobile Devices,Smartphones and tablets,Electronics,Families,30$ - 99$,High Performance,12/5/2022,N/A,30%
+78,Home Appliances,Laptops and desktops,Electronics,Audiophiles,70$ - 310$,Smart Connectivity,2/18/2023,N/A,50%
+79,Audio Equipment,Laptops and desktops,Electronics,Audiophiles,50$ - 200$,High Performance,12/5/2022,N/A,40%
+80,Home Appliances,Laptops and desktops,Home Goods,Youth,200$ - 500$,Touchscreen,8/13/2022,N/A,30%
+81,Home Appliances,Smart home devices,Home Goods,General Public,200$ - 500$,Wireless,1/17/2023,N/A,10%
+82,Home Appliances,Smartphones and tablets,Home Goods,Professionals,30$ - 99$,Touchscreen,5/7/2023,N/A,25%
+83,Accessories,Headphones and wearables,Electronics,Professionals,50$ - 200$,Durable,9/13/2022,N/A,40%
+84,Mobile Devices,Laptops and desktops,Electronics,Professionals,30$ - 99$,High Performance,8/23/2022,N/A,10%
+85,Mobile Devices,Laptops and desktops,Electronics,Youth,350$ - 500$,High Performance,8/27/2022,N/A,40%
+86,Home Appliances,Smartphones and tablets,Electronics,Youth,50$ - 200$,Wireless,3/15/2023,N/A,15%
+87,Mobile Devices,Laptops and desktops,Electronics,Professionals,50$ - 200$,High Fidelity Audio,6/1/2023,N/A,35%
+88,Accessories,Smartphones and tablets,Electronics,Youth,200$ - 500$,High Fidelity Audio,11/23/2022,N/A,10%
+89,Computing,Headphones and wearables,Electronics,Families,200$ - 500$,Wireless,9/11/2022,N/A,5%
+90,Audio Equipment,Smartphones and tablets,Electronics,Audiophiles,70$ - 310$,Camera,8/1/2022,N/A,40%
+91,Accessories,Smartphones and tablets,Home Goods,Audiophiles,50$ - 200$,High Performance,11/25/2022,N/A,15%
+92,Accessories,Laptops and desktops,Home Goods,General Public,50$ - 200$,High Fidelity Audio,1/21/2023,N/A,15%
+93,Computing,Smartphones and tablets,Electronics,Professionals,50$ - 200$,Touchscreen,6/12/2023,N/A,10%
+94,Home Appliances,Smartphones and tablets,Home Goods,Families,70$ - 310$,Wireless,2/13/2023,N/A,25%
+95,Computing,Laptops and desktops,Home Goods,Audiophiles,70$ - 310$,Touchscreen,2/7/2023,N/A,35%
+96,Computing,Laptops and desktops,Electronics,Youth,200$ - 500$,Durable,10/28/2022,N/A,10%
+97,Audio Equipment,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,Touchscreen,9/17/2022,N/A,35%
+98,Home Appliances,Smart home devices,Electronics,Families,350$ - 500$,Smart Connectivity,7/25/2022,N/A,25%
+99,Accessories,Headphones and wearables,Home Goods,Families,70$ - 310$,Camera,7/30/2022,N/A,10%
+100,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,350$ - 500$,Camera,6/19/2022,N/A,50%
+101,Audio Equipment,Speakers and soundbars,Home Goods,Families,50$ - 200$,Durable,6/30/2022,N/A,40%
+102,Home Appliances,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,Wireless,5/1/2023,N/A,20%
+103,Mobile Devices,Speakers and soundbars,Electronics,Youth,30$ - 99$,Camera,7/29/2022,N/A,10%
+104,Home Appliances,Smartphones and tablets,Electronics,Youth,200$ - 500$,Touchscreen,5/28/2023,N/A,40%
+105,Mobile Devices,Headphones and wearables,Electronics,Professionals,200$ - 500$,Durable,8/26/2022,N/A,20%
+106,Mobile Devices,Smart home devices,Electronics,General Public,70$ - 310$,Durable,12/13/2022,N/A,5%
+107,Mobile Devices,Laptops and desktops,Electronics,Families,100$ - 300$,Wireless,3/5/2023,N/A,50%
+108,Accessories,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,High Fidelity Audio,3/16/2023,N/A,10%
+109,Accessories,Smartphones and tablets,Electronics,General Public,350$ - 500$,High Fidelity Audio,11/16/2022,N/A,50%
+110,Audio Equipment,Smart home devices,Home Goods,Youth,70$ - 310$,Durable,8/3/2022,N/A,50%
+111,Accessories,Laptops and desktops,Home Goods,Youth,30$ - 99$,Camera,7/2/2022,N/A,30%
+112,Audio Equipment,Smart home devices,Home Goods,Families,350$ - 500$,Camera,5/24/2023,N/A,20%
+113,Audio Equipment,Smartphones and tablets,Home Goods,Families,200$ - 500$,Smart Connectivity,1/31/2023,N/A,15%
+114,Home Appliances,Speakers and soundbars,Electronics,General Public,200$ - 500$,Touchscreen,6/4/2023,N/A,50%
+115,Mobile Devices,Speakers and soundbars,Electronics,General Public,100$ - 300$,Durable,12/28/2022,N/A,10%
+116,Accessories,Laptops and desktops,Home Goods,General Public,350$ - 500$,Camera,6/16/2022,N/A,5%
+117,Mobile Devices,Laptops and desktops,Home Goods,General Public,100$ - 300$,Camera,11/1/2022,N/A,25%
+118,Accessories,Smart home devices,Electronics,General Public,30$ - 99$,Camera,12/13/2022,N/A,35%
+119,Computing,Laptops and desktops,Electronics,Youth,70$ - 310$,High Fidelity Audio,5/8/2023,N/A,5%
+120,Audio Equipment,Smart home devices,Electronics,Families,30$ - 99$,Touchscreen,11/22/2022,N/A,15%
+121,Mobile Devices,Laptops and desktops,Electronics,Families,350$ - 500$,High Performance,9/5/2022,N/A,25%
+122,Accessories,Smartphones and tablets,Electronics,Families,30$ - 99$,Touchscreen,11/25/2022,N/A,5%
+123,Mobile Devices,Speakers and soundbars,Electronics,Youth,50$ - 200$,Durable,4/25/2023,N/A,15%
+124,Home Appliances,Smart home devices,Home Goods,Audiophiles,100$ - 300$,Durable,7/13/2022,N/A,5%
+125,Audio Equipment,Headphones and wearables,Electronics,Youth,200$ - 500$,Wireless,5/26/2023,N/A,50%
+126,Mobile Devices,Smart home devices,Electronics,Professionals,70$ - 310$,High Performance,8/23/2022,N/A,20%
+127,Audio Equipment,Speakers and soundbars,Home Goods,General Public,200$ - 500$,Touchscreen,7/19/2022,N/A,10%
+128,Home Appliances,Smartphones and tablets,Home Goods,Families,100$ - 300$,High Performance,4/15/2023,N/A,30%
+129,Accessories,Headphones and wearables,Electronics,General Public,30$ - 99$,Smart Connectivity,3/25/2023,N/A,5%
+130,Home Appliances,Laptops and desktops,Home Goods,Professionals,100$ - 300$,Durable,8/1/2022,N/A,20%
+131,Home Appliances,Headphones and wearables,Home Goods,Youth,200$ - 500$,Camera,12/12/2022,N/A,50%
+132,Computing,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Durable,9/28/2022,N/A,40%
+133,Mobile Devices,Smartphones and tablets,Electronics,Professionals,100$ - 300$,Touchscreen,9/27/2022,N/A,5%
+134,Mobile Devices,Speakers and soundbars,Electronics,Youth,350$ - 500$,High Fidelity Audio,11/18/2022,N/A,40%
+135,Mobile Devices,Laptops and desktops,Home Goods,General Public,200$ - 500$,High Performance,6/9/2023,N/A,25%
+136,Accessories,Headphones and wearables,Electronics,General Public,100$ - 300$,Touchscreen,10/30/2022,N/A,25%
+137,Accessories,Laptops and desktops,Electronics,Professionals,100$ - 300$,High Performance,3/25/2023,N/A,50%
+138,Audio Equipment,Headphones and wearables,Home Goods,Families,350$ - 500$,Smart Connectivity,10/7/2022,N/A,20%
+139,Audio Equipment,Laptops and desktops,Electronics,Youth,50$ - 200$,High Performance,9/10/2022,N/A,40%
+140,Home Appliances,Headphones and wearables,Home Goods,Audiophiles,200$ - 500$,Touchscreen,8/3/2022,N/A,30%
+141,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,350$ - 500$,Camera,3/4/2023,N/A,50%
+142,Mobile Devices,Smartphones and tablets,Electronics,General Public,350$ - 500$,High Fidelity Audio,10/23/2022,N/A,50%
+143,Home Appliances,Speakers and soundbars,Electronics,General Public,50$ - 200$,Smart Connectivity,3/25/2023,N/A,35%
+144,Accessories,Headphones and wearables,Electronics,General Public,30$ - 99$,Touchscreen,5/31/2023,N/A,20%
+145,Audio Equipment,Headphones and wearables,Home Goods,General Public,200$ - 500$,High Fidelity Audio,7/8/2022,N/A,10%
+146,Accessories,Smartphones and tablets,Home Goods,Families,70$ - 310$,High Fidelity Audio,4/11/2023,N/A,25%
+147,Audio Equipment,Smart home devices,Home Goods,Professionals,30$ - 99$,Wireless,3/10/2023,N/A,40%
+148,Computing,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,Smart Connectivity,11/16/2022,N/A,30%
+149,Mobile Devices,Laptops and desktops,Electronics,Families,30$ - 99$,Touchscreen,4/14/2023,N/A,30%
+150,Computing,Speakers and soundbars,Electronics,General Public,70$ - 310$,Camera,12/22/2022,N/A,15%
+151,Home Appliances,Smart home devices,Electronics,Families,50$ - 200$,High Fidelity Audio,9/15/2022,N/A,40%
+152,Audio Equipment,Laptops and desktops,Electronics,Families,50$ - 200$,Wireless,11/21/2022,N/A,25%
+153,Home Appliances,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,Camera,5/24/2023,N/A,10%
+154,Audio Equipment,Speakers and soundbars,Home Goods,Youth,200$ - 500$,Durable,4/25/2023,N/A,50%
+155,Computing,Laptops and desktops,Home Goods,Youth,50$ - 200$,High Performance,3/17/2023,N/A,20%
+156,Computing,Smartphones and tablets,Electronics,Audiophiles,100$ - 300$,Durable,4/27/2023,N/A,5%
+157,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,Durable,11/8/2022,N/A,10%
+158,Mobile Devices,Laptops and desktops,Home Goods,Professionals,30$ - 99$,High Fidelity Audio,6/23/2022,N/A,5%
+159,Audio Equipment,Speakers and soundbars,Home Goods,Audiophiles,200$ - 500$,Touchscreen,4/13/2023,N/A,15%
+160,Computing,Smartphones and tablets,Home Goods,Professionals,100$ - 300$,Wireless,12/26/2022,N/A,5%
+161,Computing,Smart home devices,Home Goods,Professionals,100$ - 300$,Camera,2/9/2023,N/A,50%
+162,Home Appliances,Smartphones and tablets,Electronics,General Public,350$ - 500$,Smart Connectivity,5/23/2023,N/A,20%
+163,Audio Equipment,Laptops and desktops,Electronics,Audiophiles,200$ - 500$,Durable,1/23/2023,N/A,15%
+164,Audio Equipment,Smart home devices,Electronics,Youth,350$ - 500$,Touchscreen,12/30/2022,N/A,50%
+165,Audio Equipment,Speakers and soundbars,Electronics,Youth,350$ - 500$,High Performance,10/24/2022,N/A,25%
+166,Mobile Devices,Smartphones and tablets,Electronics,Professionals,200$ - 500$,Camera,4/14/2023,N/A,10%
+167,Accessories,Smart home devices,Home Goods,Families,350$ - 500$,High Fidelity Audio,11/23/2022,N/A,10%
+168,Accessories,Headphones and wearables,Home Goods,General Public,100$ - 300$,High Fidelity Audio,6/2/2023,N/A,10%
+169,Home Appliances,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,High Performance,4/10/2023,N/A,15%
+170,Audio Equipment,Headphones and wearables,Home Goods,Youth,350$ - 500$,High Performance,8/14/2022,N/A,40%
+171,Accessories,Smart home devices,Electronics,General Public,50$ - 200$,Durable,5/11/2023,N/A,40%
+172,Computing,Speakers and soundbars,Home Goods,Youth,50$ - 200$,High Performance,1/18/2023,N/A,50%
+173,Home Appliances,Headphones and wearables,Home Goods,General Public,70$ - 310$,Smart Connectivity,9/21/2022,N/A,20%
+174,Computing,Smart home devices,Home Goods,Youth,200$ - 500$,High Performance,10/23/2022,N/A,25%
+175,Accessories,Smartphones and tablets,Electronics,Families,200$ - 500$,Touchscreen,7/15/2022,N/A,15%
+176,Home Appliances,Speakers and soundbars,Home Goods,General Public,50$ - 200$,Smart Connectivity,5/15/2023,N/A,30%
+177,Home Appliances,Smart home devices,Home Goods,Audiophiles,50$ - 200$,Durable,10/13/2022,N/A,50%
+178,Mobile Devices,Headphones and wearables,Home Goods,Professionals,50$ - 200$,High Performance,5/19/2023,N/A,15%
+179,Home Appliances,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,Smart Connectivity,5/27/2023,N/A,15%
+180,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,200$ - 500$,Wireless,7/20/2022,N/A,25%
+181,Audio Equipment,Laptops and desktops,Electronics,Families,350$ - 500$,Durable,6/24/2022,N/A,20%
+182,Accessories,Headphones and wearables,Electronics,General Public,30$ - 99$,High Performance,2/7/2023,N/A,5%
+183,Computing,Smart home devices,Home Goods,Professionals,70$ - 310$,High Performance,5/22/2023,N/A,35%
+184,Mobile Devices,Smartphones and tablets,Electronics,Youth,50$ - 200$,Camera,6/25/2022,N/A,25%
+185,Accessories,Smart home devices,Electronics,Audiophiles,30$ - 99$,Camera,4/23/2023,N/A,35%
+186,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,High Fidelity Audio,6/15/2022,N/A,50%
+187,Accessories,Speakers and soundbars,Electronics,Families,30$ - 99$,Camera,9/22/2022,N/A,15%
+188,Accessories,Smart home devices,Home Goods,Audiophiles,350$ - 500$,High Performance,7/17/2022,N/A,5%
+189,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,High Performance,11/10/2022,N/A,20%
+190,Audio Equipment,Smartphones and tablets,Electronics,Youth,50$ - 200$,Camera,12/22/2022,N/A,25%
+191,Computing,Headphones and wearables,Electronics,Youth,30$ - 99$,Smart Connectivity,3/22/2023,N/A,40%
+192,Mobile Devices,Speakers and soundbars,Electronics,General Public,200$ - 500$,Camera,11/15/2022,N/A,5%
+193,Computing,Smartphones and tablets,Electronics,Families,350$ - 500$,Touchscreen,12/2/2022,N/A,20%
+194,Mobile Devices,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,High Fidelity Audio,2/3/2023,N/A,5%
+195,Mobile Devices,Smart home devices,Electronics,Youth,350$ - 500$,High Fidelity Audio,6/30/2022,N/A,35%
+196,Mobile Devices,Headphones and wearables,Home Goods,Professionals,350$ - 500$,Wireless,12/16/2022,N/A,35%
+197,Accessories,Headphones and wearables,Home Goods,Youth,70$ - 310$,Camera,6/20/2022,N/A,35%
+198,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,70$ - 310$,Durable,1/15/2023,N/A,35%
+199,Accessories,Smartphones and tablets,Home Goods,Youth,70$ - 310$,Camera,11/29/2022,N/A,35%
+200,Audio Equipment,Laptops and desktops,Electronics,Youth,70$ - 310$,High Performance,5/26/2023,N/A,25%
+201,Audio Equipment,Smart home devices,Home Goods,Youth,30$ - 99$,Wireless,4/21/2023,N/A,35%
+202,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Wireless,10/17/2022,N/A,10%
+203,Accessories,Headphones and wearables,Home Goods,Families,350$ - 500$,Touchscreen,12/3/2022,N/A,20%
+204,Accessories,Smart home devices,Electronics,Families,50$ - 200$,High Performance,12/4/2022,N/A,30%
+205,Audio Equipment,Headphones and wearables,Electronics,Professionals,50$ - 200$,High Performance,8/11/2022,N/A,20%
+206,Computing,Smartphones and tablets,Home Goods,Families,50$ - 200$,Smart Connectivity,5/21/2023,N/A,30%
+207,Computing,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,Camera,8/4/2022,N/A,5%
+208,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,Wireless,5/5/2023,N/A,20%
+209,Mobile Devices,Headphones and wearables,Home Goods,General Public,350$ - 500$,High Fidelity Audio,7/26/2022,N/A,20%
+210,Computing,Headphones and wearables,Home Goods,Families,350$ - 500$,High Performance,2/15/2023,N/A,5%
+211,Mobile Devices,Laptops and desktops,Electronics,Youth,200$ - 500$,Camera,11/21/2022,N/A,25%
+212,Computing,Speakers and soundbars,Electronics,Families,50$ - 200$,High Performance,7/28/2022,N/A,50%
+213,Mobile Devices,Smartphones and tablets,Electronics,General Public,350$ - 500$,Durable,11/9/2022,N/A,20%
+214,Accessories,Smartphones and tablets,Home Goods,Professionals,70$ - 310$,High Performance,12/26/2022,N/A,20%
+215,Computing,Speakers and soundbars,Home Goods,Youth,350$ - 500$,Touchscreen,11/13/2022,N/A,15%
+216,Home Appliances,Headphones and wearables,Home Goods,Professionals,70$ - 310$,Wireless,8/12/2022,N/A,20%
+217,Accessories,Laptops and desktops,Home Goods,Youth,70$ - 310$,Durable,12/28/2022,N/A,50%
+218,Audio Equipment,Speakers and soundbars,Home Goods,Audiophiles,30$ - 99$,Smart Connectivity,5/17/2023,N/A,5%
+219,Home Appliances,Laptops and desktops,Home Goods,General Public,100$ - 300$,Camera,12/6/2022,N/A,40%
+220,Audio Equipment,Speakers and soundbars,Home Goods,Families,100$ - 300$,High Performance,6/25/2022,N/A,50%
+221,Mobile Devices,Smart home devices,Home Goods,Families,70$ - 310$,Camera,1/10/2023,N/A,30%
+222,Computing,Headphones and wearables,Home Goods,Professionals,100$ - 300$,Touchscreen,11/19/2022,N/A,30%
+223,Accessories,Laptops and desktops,Electronics,Professionals,100$ - 300$,Camera,1/5/2023,N/A,20%
+224,Mobile Devices,Laptops and desktops,Electronics,Audiophiles,100$ - 300$,High Fidelity Audio,11/28/2022,N/A,50%
+225,Home Appliances,Headphones and wearables,Electronics,General Public,350$ - 500$,High Fidelity Audio,2/18/2023,N/A,25%
+226,Home Appliances,Speakers and soundbars,Electronics,General Public,100$ - 300$,High Fidelity Audio,9/22/2022,N/A,25%
+227,Mobile Devices,Speakers and soundbars,Home Goods,Youth,70$ - 310$,Smart Connectivity,5/13/2023,N/A,5%
+228,Accessories,Smartphones and tablets,Electronics,Youth,100$ - 300$,High Performance,3/22/2023,N/A,40%
+229,Accessories,Laptops and desktops,Electronics,Youth,50$ - 200$,Touchscreen,3/18/2023,N/A,50%
+230,Audio Equipment,Speakers and soundbars,Home Goods,Professionals,350$ - 500$,Touchscreen,12/21/2022,N/A,15%
+231,Computing,Smartphones and tablets,Electronics,Audiophiles,30$ - 99$,Smart Connectivity,2/5/2023,N/A,5%
+232,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,30$ - 99$,Smart Connectivity,8/24/2022,N/A,30%
+233,Audio Equipment,Smart home devices,Home Goods,Professionals,50$ - 200$,High Fidelity Audio,12/31/2022,N/A,35%
+234,Accessories,Smartphones and tablets,Electronics,General Public,30$ - 99$,High Performance,2/27/2023,N/A,15%
+235,Computing,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,Wireless,9/30/2022,N/A,50%
+236,Mobile Devices,Smart home devices,Home Goods,Audiophiles,50$ - 200$,Wireless,3/13/2023,N/A,25%
+237,Mobile Devices,Smart home devices,Home Goods,General Public,50$ - 200$,High Performance,3/21/2023,N/A,10%
+238,Audio Equipment,Laptops and desktops,Electronics,Youth,50$ - 200$,Smart Connectivity,12/29/2022,N/A,25%
+239,Computing,Smartphones and tablets,Home Goods,General Public,50$ - 200$,High Fidelity Audio,7/4/2022,N/A,5%
+240,Accessories,Speakers and soundbars,Electronics,General Public,100$ - 300$,Touchscreen,6/5/2023,N/A,50%
+241,Home Appliances,Headphones and wearables,Home Goods,Families,70$ - 310$,Durable,11/2/2022,N/A,35%
+242,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,200$ - 500$,Durable,7/11/2022,N/A,5%
+243,Mobile Devices,Speakers and soundbars,Home Goods,Youth,70$ - 310$,Smart Connectivity,6/4/2023,N/A,40%
+244,Audio Equipment,Laptops and desktops,Home Goods,Youth,200$ - 500$,Smart Connectivity,5/29/2023,N/A,40%
+245,Audio Equipment,Smart home devices,Electronics,Audiophiles,350$ - 500$,High Performance,8/20/2022,N/A,20%
+246,Home Appliances,Laptops and desktops,Electronics,Families,30$ - 99$,High Performance,8/24/2022,N/A,35%
+247,Accessories,Speakers and soundbars,Electronics,Audiophiles,100$ - 300$,High Performance,12/17/2022,N/A,20%
+248,Audio Equipment,Speakers and soundbars,Home Goods,Youth,50$ - 200$,Touchscreen,8/10/2022,N/A,35%
+249,Audio Equipment,Smartphones and tablets,Home Goods,Audiophiles,50$ - 200$,Smart Connectivity,3/13/2023,N/A,20%
+250,Mobile Devices,Speakers and soundbars,Electronics,Families,100$ - 300$,Touchscreen,3/22/2023,N/A,15%
+251,Audio Equipment,Speakers and soundbars,Electronics,General Public,70$ - 310$,Durable,1/27/2023,N/A,10%
+252,Audio Equipment,Laptops and desktops,Electronics,Professionals,350$ - 500$,Camera,3/30/2023,N/A,25%
+253,Accessories,Laptops and desktops,Electronics,General Public,50$ - 200$,High Performance,6/17/2022,N/A,20%
+254,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,50$ - 200$,Durable,1/9/2023,N/A,10%
+255,Mobile Devices,Smart home devices,Home Goods,Families,70$ - 310$,Durable,9/24/2022,N/A,30%
+256,Computing,Smart home devices,Home Goods,General Public,30$ - 99$,High Performance,2/16/2023,N/A,10%
+257,Home Appliances,Smart home devices,Electronics,General Public,350$ - 500$,Smart Connectivity,8/17/2022,N/A,30%
+258,Mobile Devices,Headphones and wearables,Home Goods,Families,70$ - 310$,Wireless,5/22/2023,N/A,50%
+259,Accessories,Smart home devices,Electronics,Professionals,30$ - 99$,Camera,7/11/2022,N/A,50%
+260,Audio Equipment,Smartphones and tablets,Home Goods,Youth,100$ - 300$,High Performance,4/19/2023,N/A,35%
+261,Mobile Devices,Smart home devices,Electronics,General Public,350$ - 500$,Smart Connectivity,6/24/2022,N/A,40%
+262,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,350$ - 500$,Touchscreen,7/1/2022,N/A,5%
+263,Mobile Devices,Laptops and desktops,Electronics,Professionals,70$ - 310$,Wireless,5/3/2023,N/A,50%
+264,Audio Equipment,Speakers and soundbars,Electronics,General Public,50$ - 200$,High Fidelity Audio,3/14/2023,N/A,40%
+265,Computing,Smartphones and tablets,Electronics,Audiophiles,100$ - 300$,Camera,5/25/2023,N/A,15%
+266,Accessories,Laptops and desktops,Electronics,General Public,50$ - 200$,Smart Connectivity,4/2/2023,N/A,40%
+267,Mobile Devices,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,High Fidelity Audio,6/23/2022,N/A,35%
+268,Home Appliances,Smart home devices,Home Goods,Professionals,350$ - 500$,Durable,7/27/2022,N/A,20%
+269,Accessories,Laptops and desktops,Home Goods,Families,30$ - 99$,Camera,4/22/2023,N/A,40%
+270,Computing,Speakers and soundbars,Home Goods,General Public,50$ - 200$,High Performance,1/13/2023,N/A,5%
+271,Home Appliances,Headphones and wearables,Home Goods,Families,200$ - 500$,Smart Connectivity,5/21/2023,N/A,50%
+272,Accessories,Laptops and desktops,Home Goods,Families,30$ - 99$,Camera,5/7/2023,N/A,35%
+273,Home Appliances,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,Durable,11/20/2022,N/A,50%
+274,Computing,Smartphones and tablets,Home Goods,Youth,30$ - 99$,Durable,1/2/2023,N/A,20%
+275,Accessories,Smartphones and tablets,Home Goods,Audiophiles,70$ - 310$,Camera,1/4/2023,N/A,50%
+276,Accessories,Smart home devices,Electronics,Audiophiles,70$ - 310$,High Performance,7/30/2022,N/A,15%
+277,Audio Equipment,Speakers and soundbars,Home Goods,General Public,70$ - 310$,High Performance,5/11/2023,N/A,20%
+278,Home Appliances,Speakers and soundbars,Electronics,Families,30$ - 99$,Camera,12/15/2022,N/A,25%
+279,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,70$ - 310$,Camera,10/24/2022,N/A,25%
+280,Mobile Devices,Laptops and desktops,Home Goods,General Public,50$ - 200$,Wireless,7/26/2022,N/A,20%
+281,Audio Equipment,Smartphones and tablets,Electronics,General Public,50$ - 200$,Camera,3/21/2023,N/A,35%
+282,Accessories,Smart home devices,Electronics,Families,70$ - 310$,Wireless,9/28/2022,N/A,10%
+283,Audio Equipment,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,High Performance,2/11/2023,N/A,50%
+284,Accessories,Speakers and soundbars,Electronics,Youth,100$ - 300$,Durable,10/12/2022,N/A,10%
+285,Accessories,Smartphones and tablets,Electronics,Professionals,30$ - 99$,High Performance,1/26/2023,N/A,20%
+286,Mobile Devices,Speakers and soundbars,Electronics,Professionals,50$ - 200$,High Fidelity Audio,1/7/2023,N/A,50%
+287,Audio Equipment,Smart home devices,Home Goods,Youth,200$ - 500$,Smart Connectivity,1/16/2023,N/A,30%
+288,Mobile Devices,Headphones and wearables,Electronics,Families,100$ - 300$,Camera,2/6/2023,N/A,50%
+289,Audio Equipment,Smart home devices,Home Goods,General Public,200$ - 500$,High Performance,10/13/2022,N/A,40%
+290,Mobile Devices,Headphones and wearables,Electronics,Families,200$ - 500$,Camera,2/8/2023,N/A,10%
+291,Accessories,Smart home devices,Home Goods,Families,100$ - 300$,High Performance,10/30/2022,N/A,15%
+292,Audio Equipment,Headphones and wearables,Home Goods,Professionals,350$ - 500$,Touchscreen,11/18/2022,N/A,15%
+293,Home Appliances,Speakers and soundbars,Electronics,Families,70$ - 310$,Wireless,12/2/2022,N/A,30%
+294,Accessories,Laptops and desktops,Home Goods,Families,70$ - 310$,High Fidelity Audio,11/26/2022,N/A,35%
+295,Computing,Laptops and desktops,Electronics,Professionals,30$ - 99$,Camera,9/24/2022,N/A,10%
+296,Mobile Devices,Headphones and wearables,Home Goods,Professionals,100$ - 300$,Durable,12/11/2022,N/A,15%
+297,Accessories,Smartphones and tablets,Home Goods,Professionals,30$ - 99$,Camera,1/8/2023,N/A,35%
+298,Computing,Speakers and soundbars,Electronics,Youth,100$ - 300$,Camera,4/21/2023,N/A,30%
+299,Computing,Smartphones and tablets,Electronics,General Public,350$ - 500$,Touchscreen,4/19/2023,N/A,20%
+300,Accessories,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,Durable,1/6/2023,N/A,20%
+301,Audio Equipment,Smart home devices,Electronics,Families,70$ - 310$,Touchscreen,7/6/2022,N/A,20%
+302,Computing,Laptops and desktops,Home Goods,Audiophiles,50$ - 200$,High Performance,5/12/2023,N/A,40%
+303,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,350$ - 500$,High Fidelity Audio,9/14/2022,N/A,35%
+304,Computing,Speakers and soundbars,Electronics,Youth,50$ - 200$,Durable,7/20/2022,N/A,20%
+305,Mobile Devices,Speakers and soundbars,Home Goods,General Public,350$ - 500$,Camera,12/10/2022,N/A,20%
+306,Audio Equipment,Speakers and soundbars,Electronics,General Public,50$ - 200$,Durable,7/12/2022,N/A,40%
+307,Mobile Devices,Speakers and soundbars,Home Goods,General Public,70$ - 310$,Smart Connectivity,5/3/2023,N/A,40%
+308,Computing,Smart home devices,Home Goods,Professionals,50$ - 200$,Smart Connectivity,2/24/2023,N/A,25%
+309,Accessories,Laptops and desktops,Home Goods,Professionals,70$ - 310$,Smart Connectivity,11/19/2022,N/A,30%
+310,Computing,Smartphones and tablets,Electronics,Families,50$ - 200$,Wireless,5/18/2023,N/A,35%
+311,Computing,Smartphones and tablets,Electronics,Youth,30$ - 99$,Camera,4/8/2023,N/A,15%
+312,Accessories,Speakers and soundbars,Electronics,Youth,70$ - 310$,Camera,5/27/2023,N/A,50%
+313,Audio Equipment,Headphones and wearables,Electronics,Families,50$ - 200$,Touchscreen,3/20/2023,N/A,5%
+314,Computing,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,Camera,4/16/2023,N/A,15%
+315,Audio Equipment,Smart home devices,Home Goods,Youth,100$ - 300$,Camera,9/15/2022,N/A,5%
+316,Home Appliances,Smartphones and tablets,Electronics,Families,30$ - 99$,Smart Connectivity,3/9/2023,N/A,40%
+317,Computing,Headphones and wearables,Electronics,General Public,350$ - 500$,High Performance,3/18/2023,N/A,35%
+318,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,350$ - 500$,Smart Connectivity,3/3/2023,N/A,30%
+319,Mobile Devices,Speakers and soundbars,Electronics,Professionals,30$ - 99$,Touchscreen,12/27/2022,N/A,10%
+320,Home Appliances,Laptops and desktops,Electronics,Youth,50$ - 200$,High Fidelity Audio,10/29/2022,N/A,50%
+321,Accessories,Smartphones and tablets,Electronics,General Public,200$ - 500$,Camera,3/28/2023,N/A,35%
+322,Computing,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,Durable,11/21/2022,N/A,15%
+323,Accessories,Laptops and desktops,Home Goods,Audiophiles,200$ - 500$,High Fidelity Audio,4/11/2023,N/A,25%
+324,Home Appliances,Headphones and wearables,Home Goods,Families,350$ - 500$,Wireless,6/23/2022,N/A,40%
+325,Audio Equipment,Headphones and wearables,Home Goods,General Public,50$ - 200$,Camera,8/19/2022,N/A,20%
+326,Accessories,Smartphones and tablets,Electronics,General Public,100$ - 300$,High Fidelity Audio,6/20/2022,N/A,35%
+327,Accessories,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,Wireless,10/30/2022,N/A,40%
+328,Audio Equipment,Speakers and soundbars,Electronics,Youth,200$ - 500$,Durable,6/4/2023,N/A,10%
+329,Home Appliances,Speakers and soundbars,Electronics,General Public,70$ - 310$,Touchscreen,11/3/2022,N/A,5%
+330,Computing,Laptops and desktops,Home Goods,Audiophiles,350$ - 500$,Touchscreen,5/17/2023,N/A,35%
+331,Audio Equipment,Smart home devices,Home Goods,Professionals,30$ - 99$,High Performance,4/11/2023,N/A,30%
+332,Mobile Devices,Speakers and soundbars,Electronics,Youth,70$ - 310$,Durable,6/3/2023,N/A,25%
+333,Audio Equipment,Laptops and desktops,Electronics,General Public,200$ - 500$,Durable,7/17/2022,N/A,15%
+334,Home Appliances,Smart home devices,Electronics,Professionals,200$ - 500$,Touchscreen,6/21/2022,N/A,20%
+335,Accessories,Headphones and wearables,Electronics,General Public,100$ - 300$,Touchscreen,1/14/2023,N/A,15%
+336,Audio Equipment,Smart home devices,Home Goods,General Public,200$ - 500$,High Performance,11/19/2022,N/A,15%
+337,Accessories,Smartphones and tablets,Home Goods,Youth,70$ - 310$,Camera,2/2/2023,N/A,10%
+338,Accessories,Speakers and soundbars,Electronics,Professionals,70$ - 310$,Camera,7/27/2022,N/A,10%
+339,Audio Equipment,Headphones and wearables,Home Goods,Professionals,70$ - 310$,Durable,12/12/2022,N/A,25%
+340,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,30$ - 99$,High Performance,9/25/2022,N/A,50%
+341,Home Appliances,Speakers and soundbars,Electronics,Youth,30$ - 99$,Camera,6/11/2023,N/A,50%
+342,Computing,Laptops and desktops,Home Goods,General Public,200$ - 500$,Wireless,7/26/2022,N/A,20%
+343,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,200$ - 500$,Touchscreen,11/10/2022,N/A,40%
+344,Home Appliances,Smart home devices,Home Goods,Professionals,350$ - 500$,Durable,6/15/2022,N/A,5%
+345,Home Appliances,Headphones and wearables,Home Goods,Families,30$ - 99$,High Fidelity Audio,5/3/2023,N/A,35%
+346,Mobile Devices,Smart home devices,Home Goods,General Public,100$ - 300$,Camera,2/9/2023,N/A,5%
+347,Computing,Headphones and wearables,Electronics,Youth,30$ - 99$,Smart Connectivity,12/11/2022,N/A,5%
+348,Computing,Smartphones and tablets,Home Goods,Professionals,50$ - 200$,High Performance,7/29/2022,N/A,40%
+349,Home Appliances,Speakers and soundbars,Electronics,Audiophiles,200$ - 500$,Wireless,8/26/2022,N/A,40%
+350,Home Appliances,Smartphones and tablets,Electronics,Professionals,30$ - 99$,High Performance,11/15/2022,N/A,25%
+351,Accessories,Smartphones and tablets,Electronics,Professionals,350$ - 500$,Touchscreen,8/25/2022,N/A,10%
+352,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,Touchscreen,11/3/2022,N/A,50%
+353,Mobile Devices,Laptops and desktops,Electronics,Professionals,200$ - 500$,Touchscreen,12/7/2022,N/A,35%
+354,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,30$ - 99$,High Fidelity Audio,10/17/2022,N/A,10%
+355,Mobile Devices,Laptops and desktops,Electronics,Professionals,200$ - 500$,Smart Connectivity,8/28/2022,N/A,20%
+356,Computing,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,Camera,12/9/2022,N/A,40%
+357,Computing,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,Touchscreen,5/21/2023,N/A,5%
+358,Computing,Laptops and desktops,Home Goods,General Public,70$ - 310$,Touchscreen,2/6/2023,N/A,30%
+359,Accessories,Headphones and wearables,Electronics,Youth,30$ - 99$,Wireless,1/30/2023,N/A,20%
+360,Home Appliances,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,Smart Connectivity,8/30/2022,N/A,15%
+361,Audio Equipment,Headphones and wearables,Home Goods,Audiophiles,50$ - 200$,Camera,5/9/2023,N/A,35%
+362,Audio Equipment,Headphones and wearables,Electronics,Professionals,70$ - 310$,High Fidelity Audio,8/15/2022,N/A,40%
+363,Computing,Speakers and soundbars,Home Goods,General Public,30$ - 99$,Smart Connectivity,2/19/2023,N/A,5%
+364,Accessories,Speakers and soundbars,Home Goods,General Public,50$ - 200$,High Fidelity Audio,9/15/2022,N/A,50%
+365,Home Appliances,Headphones and wearables,Home Goods,Families,200$ - 500$,Smart Connectivity,5/17/2023,N/A,10%
+366,Accessories,Laptops and desktops,Electronics,Youth,50$ - 200$,High Fidelity Audio,2/5/2023,N/A,15%
+367,Computing,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,Camera,9/27/2022,N/A,15%
+368,Mobile Devices,Smart home devices,Electronics,Professionals,50$ - 200$,Camera,9/29/2022,N/A,20%
+369,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,50$ - 200$,Durable,8/26/2022,N/A,20%
+370,Accessories,Headphones and wearables,Home Goods,Families,200$ - 500$,Wireless,8/6/2022,N/A,20%
+371,Home Appliances,Speakers and soundbars,Electronics,Professionals,200$ - 500$,Wireless,10/1/2022,N/A,30%
+372,Home Appliances,Laptops and desktops,Electronics,Youth,50$ - 200$,High Performance,4/30/2023,N/A,20%
+373,Audio Equipment,Smart home devices,Electronics,Professionals,50$ - 200$,Camera,4/2/2023,N/A,5%
+374,Mobile Devices,Smart home devices,Home Goods,Families,350$ - 500$,High Fidelity Audio,11/1/2022,N/A,50%
+375,Mobile Devices,Headphones and wearables,Electronics,Youth,70$ - 310$,High Performance,5/21/2023,N/A,50%
+376,Computing,Laptops and desktops,Home Goods,Families,30$ - 99$,High Fidelity Audio,9/30/2022,N/A,35%
+377,Audio Equipment,Speakers and soundbars,Home Goods,Families,100$ - 300$,Camera,4/15/2023,N/A,25%
+378,Home Appliances,Laptops and desktops,Home Goods,Youth,100$ - 300$,Wireless,10/11/2022,N/A,25%
+379,Mobile Devices,Smartphones and tablets,Home Goods,Audiophiles,50$ - 200$,Wireless,5/23/2023,N/A,50%
+380,Home Appliances,Headphones and wearables,Electronics,Professionals,50$ - 200$,High Fidelity Audio,4/22/2023,N/A,40%
+381,Computing,Laptops and desktops,Home Goods,Families,100$ - 300$,Durable,12/27/2022,N/A,5%
+382,Computing,Laptops and desktops,Home Goods,Professionals,100$ - 300$,Touchscreen,6/30/2022,N/A,30%
+383,Computing,Speakers and soundbars,Electronics,Professionals,30$ - 99$,Camera,11/27/2022,N/A,25%
+384,Home Appliances,Headphones and wearables,Electronics,General Public,70$ - 310$,Camera,5/28/2023,N/A,15%
+385,Accessories,Speakers and soundbars,Home Goods,Families,30$ - 99$,Smart Connectivity,11/6/2022,N/A,40%
+386,Mobile Devices,Smartphones and tablets,Home Goods,Audiophiles,350$ - 500$,Wireless,4/30/2023,N/A,10%
+387,Computing,Speakers and soundbars,Home Goods,Professionals,30$ - 99$,Durable,10/12/2022,N/A,40%
+388,Audio Equipment,Smart home devices,Home Goods,Professionals,70$ - 310$,Durable,8/25/2022,N/A,40%
+389,Computing,Smart home devices,Home Goods,Audiophiles,350$ - 500$,Durable,4/6/2023,N/A,20%
+390,Computing,Smart home devices,Home Goods,Audiophiles,30$ - 99$,Camera,9/21/2022,N/A,20%
+391,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,30$ - 99$,Touchscreen,3/21/2023,N/A,10%
+392,Mobile Devices,Headphones and wearables,Home Goods,Youth,350$ - 500$,Wireless,3/9/2023,N/A,25%
+393,Home Appliances,Smart home devices,Home Goods,Professionals,200$ - 500$,Wireless,9/30/2022,N/A,40%
+394,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,Wireless,12/2/2022,N/A,25%
+395,Accessories,Headphones and wearables,Home Goods,Families,30$ - 99$,Smart Connectivity,4/18/2023,N/A,20%
+396,Accessories,Headphones and wearables,Electronics,General Public,30$ - 99$,Wireless,10/6/2022,N/A,50%
+397,Accessories,Headphones and wearables,Electronics,General Public,200$ - 500$,High Performance,4/15/2023,N/A,20%
+398,Mobile Devices,Headphones and wearables,Home Goods,General Public,30$ - 99$,Durable,3/3/2023,N/A,5%
+399,Accessories,Smartphones and tablets,Electronics,Professionals,200$ - 500$,Wireless,12/14/2022,N/A,40%
+400,Audio Equipment,Headphones and wearables,Electronics,Professionals,50$ - 200$,Smart Connectivity,2/25/2023,N/A,50%
+401,Audio Equipment,Smart home devices,Electronics,Professionals,70$ - 310$,Wireless,12/11/2022,N/A,20%
+402,Audio Equipment,Smart home devices,Home Goods,Professionals,70$ - 310$,High Performance,7/14/2022,N/A,30%
+403,Mobile Devices,Speakers and soundbars,Electronics,Audiophiles,100$ - 300$,High Fidelity Audio,4/25/2023,N/A,25%
+404,Home Appliances,Laptops and desktops,Electronics,Youth,200$ - 500$,Camera,10/31/2022,N/A,25%
+405,Home Appliances,Smart home devices,Electronics,Youth,30$ - 99$,Camera,4/7/2023,N/A,10%
+406,Computing,Smart home devices,Home Goods,General Public,100$ - 300$,High Performance,7/18/2022,N/A,30%
+407,Home Appliances,Speakers and soundbars,Electronics,Professionals,30$ - 99$,High Performance,8/31/2022,N/A,25%
+408,Computing,Smartphones and tablets,Home Goods,Families,350$ - 500$,Smart Connectivity,7/2/2022,N/A,15%
+409,Mobile Devices,Headphones and wearables,Home Goods,Youth,50$ - 200$,Touchscreen,3/7/2023,N/A,5%
+410,Audio Equipment,Headphones and wearables,Home Goods,Youth,30$ - 99$,Smart Connectivity,7/26/2022,N/A,40%
+411,Computing,Smart home devices,Home Goods,General Public,100$ - 300$,Durable,12/31/2022,N/A,15%
+412,Audio Equipment,Laptops and desktops,Home Goods,General Public,200$ - 500$,Durable,12/26/2022,N/A,30%
+413,Computing,Laptops and desktops,Home Goods,Audiophiles,30$ - 99$,Touchscreen,5/27/2023,N/A,5%
+414,Accessories,Smart home devices,Electronics,Families,50$ - 200$,High Performance,5/31/2023,N/A,20%
+415,Accessories,Smart home devices,Electronics,Professionals,350$ - 500$,Camera,2/5/2023,N/A,25%
+416,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,Camera,9/22/2022,N/A,25%
+417,Audio Equipment,Laptops and desktops,Electronics,Professionals,100$ - 300$,Smart Connectivity,3/28/2023,N/A,25%
+418,Computing,Speakers and soundbars,Electronics,Professionals,30$ - 99$,Touchscreen,1/31/2023,N/A,15%
+419,Home Appliances,Headphones and wearables,Electronics,Professionals,200$ - 500$,High Fidelity Audio,5/21/2023,N/A,25%
+420,Accessories,Speakers and soundbars,Home Goods,Audiophiles,30$ - 99$,High Performance,6/19/2022,N/A,25%
+421,Mobile Devices,Smart home devices,Electronics,Professionals,350$ - 500$,Camera,2/12/2023,N/A,50%
+422,Audio Equipment,Smart home devices,Electronics,Audiophiles,200$ - 500$,High Performance,4/4/2023,N/A,25%
+423,Home Appliances,Speakers and soundbars,Home Goods,Professionals,200$ - 500$,Camera,10/24/2022,N/A,20%
+424,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,Durable,1/29/2023,N/A,25%
+425,Computing,Headphones and wearables,Home Goods,Youth,50$ - 200$,Touchscreen,10/16/2022,N/A,25%
+426,Mobile Devices,Speakers and soundbars,Electronics,Professionals,100$ - 300$,Durable,1/2/2023,N/A,40%
+427,Computing,Headphones and wearables,Electronics,Audiophiles,100$ - 300$,Camera,6/25/2022,N/A,30%
+428,Home Appliances,Smart home devices,Home Goods,General Public,50$ - 200$,Touchscreen,2/21/2023,N/A,30%
+429,Accessories,Speakers and soundbars,Home Goods,Professionals,200$ - 500$,Touchscreen,9/10/2022,N/A,50%
+430,Home Appliances,Smartphones and tablets,Home Goods,Professionals,200$ - 500$,High Performance,10/1/2022,N/A,30%
+431,Computing,Laptops and desktops,Home Goods,Audiophiles,100$ - 300$,Wireless,2/17/2023,N/A,15%
+432,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,50$ - 200$,High Performance,6/20/2022,N/A,25%
+433,Mobile Devices,Smart home devices,Electronics,Youth,30$ - 99$,Touchscreen,1/6/2023,N/A,30%
+434,Audio Equipment,Smart home devices,Home Goods,Families,50$ - 200$,Touchscreen,1/4/2023,N/A,25%
+435,Home Appliances,Laptops and desktops,Home Goods,Families,50$ - 200$,Smart Connectivity,10/24/2022,N/A,15%
+436,Accessories,Headphones and wearables,Electronics,Professionals,200$ - 500$,Touchscreen,9/1/2022,N/A,40%
+437,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,30$ - 99$,Touchscreen,4/13/2023,N/A,15%
+438,Audio Equipment,Speakers and soundbars,Home Goods,Families,30$ - 99$,Camera,9/16/2022,N/A,25%
+439,Accessories,Smartphones and tablets,Electronics,Youth,200$ - 500$,Camera,4/24/2023,N/A,20%
+440,Accessories,Laptops and desktops,Home Goods,Youth,50$ - 200$,Durable,9/22/2022,N/A,5%
+441,Accessories,Headphones and wearables,Electronics,Youth,350$ - 500$,Durable,2/3/2023,N/A,20%
+442,Computing,Headphones and wearables,Home Goods,Families,50$ - 200$,Wireless,7/26/2022,N/A,30%
+443,Home Appliances,Headphones and wearables,Electronics,Youth,350$ - 500$,Wireless,4/2/2023,N/A,50%
+444,Accessories,Laptops and desktops,Home Goods,Audiophiles,70$ - 310$,Touchscreen,3/6/2023,N/A,30%
+445,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,50$ - 200$,Camera,11/30/2022,N/A,25%
+446,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,70$ - 310$,Camera,4/15/2023,N/A,25%
+447,Audio Equipment,Headphones and wearables,Home Goods,Youth,30$ - 99$,Touchscreen,7/17/2022,N/A,15%
+448,Accessories,Smart home devices,Home Goods,Families,350$ - 500$,Wireless,4/7/2023,N/A,40%
+449,Computing,Laptops and desktops,Electronics,General Public,100$ - 300$,Smart Connectivity,7/25/2022,N/A,20%
+450,Home Appliances,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,High Fidelity Audio,7/11/2022,N/A,20%
+451,Computing,Speakers and soundbars,Home Goods,Audiophiles,30$ - 99$,Camera,3/12/2023,N/A,40%
+452,Mobile Devices,Speakers and soundbars,Electronics,Professionals,70$ - 310$,Durable,6/6/2023,N/A,50%
+453,Home Appliances,Smart home devices,Electronics,Audiophiles,70$ - 310$,Durable,9/1/2022,N/A,5%
+454,Audio Equipment,Smartphones and tablets,Electronics,Audiophiles,70$ - 310$,High Performance,12/25/2022,N/A,25%
+455,Home Appliances,Laptops and desktops,Home Goods,Audiophiles,350$ - 500$,Durable,5/8/2023,N/A,15%
+456,Computing,Smart home devices,Electronics,Youth,200$ - 500$,Wireless,6/7/2023,N/A,25%
+457,Mobile Devices,Smartphones and tablets,Electronics,Families,200$ - 500$,Touchscreen,10/23/2022,N/A,10%
+458,Audio Equipment,Headphones and wearables,Electronics,Youth,200$ - 500$,Wireless,4/21/2023,N/A,25%
+459,Computing,Smartphones and tablets,Home Goods,Professionals,50$ - 200$,Touchscreen,5/20/2023,N/A,35%
+460,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,30$ - 99$,Camera,4/16/2023,N/A,30%
+461,Home Appliances,Laptops and desktops,Electronics,Families,100$ - 300$,Wireless,8/6/2022,N/A,35%
+462,Mobile Devices,Smartphones and tablets,Electronics,Professionals,50$ - 200$,High Performance,6/13/2023,N/A,50%
+463,Computing,Smartphones and tablets,Home Goods,Youth,100$ - 300$,Touchscreen,6/14/2023,N/A,30%
+464,Accessories,Speakers and soundbars,Electronics,Families,30$ - 99$,Touchscreen,8/15/2022,N/A,15%
+465,Computing,Smart home devices,Electronics,Youth,350$ - 500$,High Fidelity Audio,2/26/2023,N/A,25%
+466,Accessories,Speakers and soundbars,Home Goods,Families,50$ - 200$,Wireless,10/10/2022,N/A,50%
+467,Accessories,Smart home devices,Electronics,Families,100$ - 300$,High Fidelity Audio,8/4/2022,N/A,10%
+468,Mobile Devices,Smart home devices,Home Goods,Families,30$ - 99$,Camera,1/19/2023,N/A,40%
+469,Mobile Devices,Headphones and wearables,Home Goods,Families,200$ - 500$,High Fidelity Audio,4/30/2023,N/A,40%
+470,Mobile Devices,Speakers and soundbars,Electronics,Families,100$ - 300$,Camera,5/1/2023,N/A,10%
+471,Home Appliances,Headphones and wearables,Electronics,Youth,70$ - 310$,Durable,5/3/2023,N/A,30%
+472,Computing,Headphones and wearables,Home Goods,Audiophiles,50$ - 200$,Durable,1/24/2023,N/A,20%
+473,Home Appliances,Headphones and wearables,Home Goods,General Public,50$ - 200$,Wireless,7/19/2022,N/A,40%
+474,Computing,Speakers and soundbars,Home Goods,Audiophiles,50$ - 200$,High Performance,5/16/2023,N/A,25%
+475,Computing,Smart home devices,Home Goods,Families,30$ - 99$,Touchscreen,6/2/2023,N/A,50%
+476,Audio Equipment,Speakers and soundbars,Electronics,General Public,70$ - 310$,Camera,1/1/2023,N/A,15%
+477,Accessories,Smartphones and tablets,Electronics,Families,50$ - 200$,High Fidelity Audio,6/18/2022,N/A,20%
+478,Accessories,Headphones and wearables,Electronics,Professionals,100$ - 300$,High Performance,9/1/2022,N/A,40%
+479,Audio Equipment,Speakers and soundbars,Home Goods,Audiophiles,200$ - 500$,Smart Connectivity,7/2/2022,N/A,15%
+480,Mobile Devices,Smart home devices,Home Goods,Youth,100$ - 300$,High Performance,8/21/2022,N/A,10%
+481,Home Appliances,Smart home devices,Home Goods,Families,70$ - 310$,Durable,5/12/2023,N/A,40%
+482,Audio Equipment,Laptops and desktops,Home Goods,Professionals,200$ - 500$,Durable,3/1/2023,N/A,50%
+483,Computing,Headphones and wearables,Electronics,Families,70$ - 310$,Durable,10/19/2022,N/A,30%
+484,Home Appliances,Speakers and soundbars,Electronics,Audiophiles,100$ - 300$,Durable,4/26/2023,N/A,10%
+485,Mobile Devices,Speakers and soundbars,Home Goods,General Public,350$ - 500$,High Performance,11/23/2022,N/A,40%
+486,Mobile Devices,Speakers and soundbars,Home Goods,Youth,350$ - 500$,High Performance,8/4/2022,N/A,50%
+487,Audio Equipment,Headphones and wearables,Electronics,Professionals,100$ - 300$,Camera,9/18/2022,N/A,5%
+488,Audio Equipment,Laptops and desktops,Home Goods,Youth,30$ - 99$,High Fidelity Audio,6/9/2023,N/A,35%
+489,Mobile Devices,Smart home devices,Electronics,Professionals,200$ - 500$,Durable,10/9/2022,N/A,15%
+490,Computing,Headphones and wearables,Home Goods,General Public,350$ - 500$,Touchscreen,6/19/2022,N/A,20%
+491,Audio Equipment,Smart home devices,Home Goods,Professionals,30$ - 99$,Touchscreen,3/28/2023,N/A,5%
+492,Home Appliances,Smartphones and tablets,Home Goods,Youth,70$ - 310$,Wireless,1/31/2023,N/A,30%
+493,Accessories,Laptops and desktops,Home Goods,Families,350$ - 500$,Touchscreen,6/17/2022,N/A,50%
+494,Mobile Devices,Laptops and desktops,Electronics,General Public,350$ - 500$,Wireless,12/24/2022,N/A,25%
+495,Mobile Devices,Laptops and desktops,Electronics,Professionals,50$ - 200$,High Performance,4/20/2023,N/A,50%
+496,Accessories,Laptops and desktops,Home Goods,General Public,350$ - 500$,Smart Connectivity,1/10/2023,N/A,5%
+497,Home Appliances,Headphones and wearables,Electronics,General Public,100$ - 300$,Durable,11/9/2022,N/A,50%
+498,Home Appliances,Smart home devices,Home Goods,Audiophiles,70$ - 310$,Smart Connectivity,9/3/2022,N/A,30%
+499,Mobile Devices,Smart home devices,Electronics,Youth,70$ - 310$,Camera,4/4/2023,N/A,40%
+500,Home Appliances,Smart home devices,Home Goods,Professionals,100$ - 300$,High Performance,5/5/2023,N/A,20%
+501,Accessories,Smart home devices,Electronics,General Public,200$ - 500$,Camera,2/11/2023,N/A,40%
+502,Home Appliances,Laptops and desktops,Home Goods,Youth,100$ - 300$,High Fidelity Audio,12/15/2022,N/A,5%
+503,Mobile Devices,Headphones and wearables,Home Goods,General Public,30$ - 99$,Camera,5/6/2023,N/A,25%
+504,Home Appliances,Headphones and wearables,Electronics,Families,70$ - 310$,Camera,5/19/2023,N/A,50%
+505,Home Appliances,Speakers and soundbars,Home Goods,General Public,30$ - 99$,High Performance,7/19/2022,N/A,20%
+506,Mobile Devices,Speakers and soundbars,Electronics,Audiophiles,350$ - 500$,Touchscreen,9/11/2022,N/A,25%
+507,Mobile Devices,Smartphones and tablets,Electronics,Families,200$ - 500$,Durable,10/24/2022,N/A,5%
+508,Computing,Speakers and soundbars,Home Goods,Audiophiles,100$ - 300$,High Performance,4/21/2023,N/A,20%
+509,Mobile Devices,Smartphones and tablets,Electronics,Youth,70$ - 310$,Wireless,5/19/2023,N/A,15%
+510,Accessories,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,Durable,1/21/2023,N/A,40%
+511,Accessories,Speakers and soundbars,Electronics,Audiophiles,100$ - 300$,High Performance,6/29/2022,N/A,25%
+512,Home Appliances,Headphones and wearables,Electronics,Families,100$ - 300$,High Fidelity Audio,7/2/2022,N/A,10%
+513,Mobile Devices,Smart home devices,Home Goods,Families,70$ - 310$,Camera,1/8/2023,N/A,35%
+514,Audio Equipment,Speakers and soundbars,Electronics,Professionals,200$ - 500$,High Performance,12/5/2022,N/A,20%
+515,Audio Equipment,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,Camera,6/19/2022,N/A,30%
+516,Home Appliances,Smartphones and tablets,Electronics,Families,30$ - 99$,Durable,1/21/2023,N/A,15%
+517,Accessories,Laptops and desktops,Electronics,Youth,30$ - 99$,Touchscreen,6/15/2022,N/A,50%
+518,Computing,Speakers and soundbars,Electronics,General Public,50$ - 200$,High Fidelity Audio,3/29/2023,N/A,15%
+519,Mobile Devices,Speakers and soundbars,Electronics,General Public,100$ - 300$,High Fidelity Audio,6/6/2023,N/A,20%
+520,Home Appliances,Laptops and desktops,Home Goods,Youth,350$ - 500$,High Performance,3/18/2023,N/A,15%
+521,Accessories,Speakers and soundbars,Electronics,Youth,70$ - 310$,High Performance,4/10/2023,N/A,50%
+522,Computing,Smartphones and tablets,Home Goods,Youth,350$ - 500$,Camera,12/27/2022,N/A,25%
+523,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,100$ - 300$,Wireless,9/19/2022,N/A,30%
+524,Audio Equipment,Speakers and soundbars,Electronics,General Public,100$ - 300$,Camera,5/12/2023,N/A,25%
+525,Computing,Headphones and wearables,Home Goods,Professionals,200$ - 500$,High Fidelity Audio,11/29/2022,N/A,50%
+526,Home Appliances,Laptops and desktops,Home Goods,General Public,70$ - 310$,Smart Connectivity,11/10/2022,N/A,15%
+527,Accessories,Smart home devices,Electronics,General Public,100$ - 300$,High Performance,7/27/2022,N/A,20%
+528,Home Appliances,Laptops and desktops,Home Goods,Audiophiles,200$ - 500$,Smart Connectivity,1/2/2023,N/A,30%
+529,Accessories,Headphones and wearables,Home Goods,Professionals,70$ - 310$,Wireless,11/16/2022,N/A,50%
+530,Audio Equipment,Smartphones and tablets,Home Goods,General Public,350$ - 500$,High Performance,4/1/2023,N/A,25%
+531,Audio Equipment,Headphones and wearables,Home Goods,Professionals,350$ - 500$,Wireless,4/4/2023,N/A,50%
+532,Computing,Smart home devices,Home Goods,Professionals,350$ - 500$,Touchscreen,8/20/2022,N/A,35%
+533,Computing,Headphones and wearables,Electronics,Professionals,100$ - 300$,Durable,11/27/2022,N/A,40%
+534,Accessories,Laptops and desktops,Electronics,Families,350$ - 500$,High Performance,5/19/2023,N/A,40%
+535,Accessories,Speakers and soundbars,Home Goods,General Public,100$ - 300$,Wireless,8/15/2022,N/A,35%
+536,Mobile Devices,Laptops and desktops,Home Goods,Youth,200$ - 500$,High Performance,11/28/2022,N/A,15%
+537,Home Appliances,Smart home devices,Home Goods,Audiophiles,100$ - 300$,High Performance,4/10/2023,N/A,35%
+538,Audio Equipment,Smart home devices,Home Goods,Families,30$ - 99$,High Fidelity Audio,7/16/2022,N/A,25%
+539,Audio Equipment,Speakers and soundbars,Electronics,General Public,200$ - 500$,Smart Connectivity,7/20/2022,N/A,30%
+540,Computing,Speakers and soundbars,Home Goods,Youth,30$ - 99$,Durable,6/4/2023,N/A,40%
+541,Computing,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,High Performance,1/16/2023,N/A,35%
+542,Audio Equipment,Speakers and soundbars,Home Goods,General Public,200$ - 500$,High Fidelity Audio,2/2/2023,N/A,30%
+543,Accessories,Speakers and soundbars,Home Goods,Professionals,50$ - 200$,Touchscreen,12/11/2022,N/A,40%
+544,Accessories,Headphones and wearables,Electronics,Professionals,350$ - 500$,Durable,10/21/2022,N/A,40%
+545,Computing,Laptops and desktops,Home Goods,Families,100$ - 300$,Durable,2/27/2023,N/A,40%
+546,Home Appliances,Smart home devices,Electronics,Professionals,50$ - 200$,High Performance,11/5/2022,N/A,40%
+547,Mobile Devices,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,High Performance,5/25/2023,N/A,5%
+548,Home Appliances,Speakers and soundbars,Home Goods,Families,200$ - 500$,High Fidelity Audio,12/19/2022,N/A,15%
+549,Mobile Devices,Smart home devices,Electronics,Youth,350$ - 500$,Touchscreen,7/18/2022,N/A,40%
+550,Computing,Smart home devices,Home Goods,General Public,30$ - 99$,Durable,5/13/2023,N/A,50%
+551,Home Appliances,Headphones and wearables,Home Goods,Youth,350$ - 500$,High Fidelity Audio,7/22/2022,N/A,30%
+552,Mobile Devices,Smart home devices,Home Goods,Youth,200$ - 500$,Wireless,6/7/2023,N/A,50%
+553,Mobile Devices,Speakers and soundbars,Home Goods,General Public,70$ - 310$,Smart Connectivity,4/1/2023,N/A,15%
+554,Home Appliances,Laptops and desktops,Electronics,Youth,30$ - 99$,Durable,4/26/2023,N/A,5%
+555,Accessories,Smartphones and tablets,Electronics,Youth,70$ - 310$,Smart Connectivity,3/28/2023,N/A,10%
+556,Accessories,Speakers and soundbars,Electronics,Youth,200$ - 500$,Wireless,3/17/2023,N/A,20%
+557,Mobile Devices,Smart home devices,Electronics,Youth,70$ - 310$,Touchscreen,5/30/2023,N/A,15%
+558,Accessories,Laptops and desktops,Home Goods,General Public,70$ - 310$,Touchscreen,7/8/2022,N/A,20%
+559,Computing,Smartphones and tablets,Electronics,General Public,70$ - 310$,Touchscreen,8/22/2022,N/A,30%
+560,Mobile Devices,Laptops and desktops,Electronics,Youth,50$ - 200$,Smart Connectivity,1/9/2023,N/A,20%
+561,Audio Equipment,Headphones and wearables,Home Goods,Families,350$ - 500$,Smart Connectivity,9/24/2022,N/A,15%
+562,Accessories,Smart home devices,Home Goods,Audiophiles,200$ - 500$,Camera,6/14/2023,N/A,50%
+563,Mobile Devices,Headphones and wearables,Electronics,Youth,200$ - 500$,High Performance,3/2/2023,N/A,20%
+564,Mobile Devices,Headphones and wearables,Electronics,Professionals,50$ - 200$,Camera,6/26/2022,N/A,15%
+565,Computing,Headphones and wearables,Home Goods,General Public,200$ - 500$,High Fidelity Audio,2/2/2023,N/A,25%
+566,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,Smart Connectivity,9/13/2022,N/A,40%
+567,Computing,Speakers and soundbars,Electronics,Youth,350$ - 500$,Camera,2/10/2023,N/A,35%
+568,Accessories,Speakers and soundbars,Home Goods,Youth,30$ - 99$,Durable,10/11/2022,N/A,25%
+569,Accessories,Laptops and desktops,Home Goods,Families,50$ - 200$,High Fidelity Audio,4/13/2023,N/A,10%
+570,Audio Equipment,Smartphones and tablets,Home Goods,Youth,50$ - 200$,High Performance,3/13/2023,N/A,50%
+571,Computing,Smart home devices,Electronics,General Public,50$ - 200$,Wireless,11/6/2022,N/A,30%
+572,Computing,Laptops and desktops,Home Goods,Families,30$ - 99$,Smart Connectivity,9/2/2022,N/A,20%
+573,Accessories,Speakers and soundbars,Electronics,General Public,350$ - 500$,Smart Connectivity,12/12/2022,N/A,20%
+574,Mobile Devices,Laptops and desktops,Electronics,Audiophiles,30$ - 99$,Smart Connectivity,10/14/2022,N/A,35%
+575,Computing,Headphones and wearables,Electronics,Professionals,30$ - 99$,High Fidelity Audio,6/10/2023,N/A,40%
+576,Accessories,Headphones and wearables,Home Goods,Families,350$ - 500$,Wireless,12/31/2022,N/A,5%
+577,Audio Equipment,Smartphones and tablets,Electronics,Families,50$ - 200$,High Performance,3/10/2023,N/A,50%
+578,Accessories,Smartphones and tablets,Electronics,Families,70$ - 310$,Wireless,4/30/2023,N/A,10%
+579,Mobile Devices,Smart home devices,Home Goods,Professionals,350$ - 500$,High Performance,4/19/2023,N/A,30%
+580,Mobile Devices,Speakers and soundbars,Home Goods,Families,50$ - 200$,Durable,11/6/2022,N/A,25%
+581,Home Appliances,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Wireless,12/9/2022,N/A,40%
+582,Home Appliances,Speakers and soundbars,Home Goods,General Public,30$ - 99$,Touchscreen,2/26/2023,N/A,15%
+583,Home Appliances,Headphones and wearables,Home Goods,Families,100$ - 300$,Smart Connectivity,12/25/2022,N/A,50%
+584,Mobile Devices,Speakers and soundbars,Electronics,General Public,200$ - 500$,Durable,2/18/2023,N/A,10%
+585,Mobile Devices,Smart home devices,Electronics,Youth,70$ - 310$,Camera,3/29/2023,N/A,10%
+586,Audio Equipment,Headphones and wearables,Electronics,Families,30$ - 99$,Smart Connectivity,10/1/2022,N/A,35%
+587,Mobile Devices,Speakers and soundbars,Home Goods,Youth,200$ - 500$,High Fidelity Audio,1/10/2023,N/A,30%
+588,Audio Equipment,Headphones and wearables,Home Goods,Youth,100$ - 300$,Wireless,7/25/2022,N/A,25%
+589,Accessories,Laptops and desktops,Home Goods,General Public,350$ - 500$,Touchscreen,5/5/2023,N/A,10%
+590,Computing,Speakers and soundbars,Home Goods,Youth,30$ - 99$,Touchscreen,12/16/2022,N/A,5%
+591,Mobile Devices,Smart home devices,Electronics,Audiophiles,70$ - 310$,High Performance,5/25/2023,N/A,50%
+592,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,High Performance,3/19/2023,N/A,50%
+593,Computing,Smart home devices,Electronics,Families,100$ - 300$,High Performance,2/5/2023,N/A,30%
+594,Audio Equipment,Headphones and wearables,Home Goods,General Public,350$ - 500$,High Performance,7/18/2022,N/A,50%
+595,Home Appliances,Headphones and wearables,Electronics,Families,100$ - 300$,Wireless,12/20/2022,N/A,40%
+596,Home Appliances,Speakers and soundbars,Electronics,Families,70$ - 310$,High Fidelity Audio,5/1/2023,N/A,20%
+597,Accessories,Headphones and wearables,Home Goods,Audiophiles,200$ - 500$,Smart Connectivity,1/24/2023,N/A,30%
+598,Mobile Devices,Speakers and soundbars,Home Goods,General Public,200$ - 500$,High Performance,11/2/2022,N/A,25%
+599,Audio Equipment,Smart home devices,Home Goods,Professionals,350$ - 500$,High Performance,11/21/2022,N/A,15%
+600,Home Appliances,Headphones and wearables,Electronics,Audiophiles,50$ - 200$,Touchscreen,5/20/2023,N/A,5%
+601,Home Appliances,Smartphones and tablets,Electronics,Youth,100$ - 300$,Wireless,10/12/2022,N/A,20%
+602,Mobile Devices,Speakers and soundbars,Electronics,Professionals,350$ - 500$,Smart Connectivity,3/9/2023,N/A,40%
+603,Audio Equipment,Laptops and desktops,Home Goods,General Public,350$ - 500$,Touchscreen,10/27/2022,N/A,50%
+604,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,200$ - 500$,Touchscreen,7/9/2022,N/A,50%
+605,Audio Equipment,Smartphones and tablets,Electronics,General Public,200$ - 500$,Smart Connectivity,6/5/2023,N/A,10%
+606,Computing,Speakers and soundbars,Electronics,General Public,100$ - 300$,High Performance,3/16/2023,N/A,40%
+607,Mobile Devices,Speakers and soundbars,Home Goods,Youth,50$ - 200$,High Performance,7/4/2022,N/A,30%
+608,Computing,Headphones and wearables,Electronics,Professionals,50$ - 200$,High Fidelity Audio,5/22/2023,N/A,5%
+609,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,70$ - 310$,High Performance,8/20/2022,N/A,5%
+610,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,Durable,11/25/2022,N/A,50%
+611,Audio Equipment,Smart home devices,Electronics,Professionals,30$ - 99$,High Performance,8/28/2022,N/A,30%
+612,Audio Equipment,Smart home devices,Electronics,Families,50$ - 200$,Camera,3/25/2023,N/A,35%
+613,Accessories,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,High Fidelity Audio,11/8/2022,N/A,50%
+614,Home Appliances,Smartphones and tablets,Electronics,General Public,50$ - 200$,Smart Connectivity,12/22/2022,N/A,5%
+615,Audio Equipment,Smartphones and tablets,Electronics,Youth,50$ - 200$,High Fidelity Audio,3/30/2023,N/A,5%
+616,Computing,Speakers and soundbars,Home Goods,General Public,200$ - 500$,High Performance,8/15/2022,N/A,40%
+617,Mobile Devices,Laptops and desktops,Home Goods,Audiophiles,70$ - 310$,Wireless,6/19/2022,N/A,40%
+618,Audio Equipment,Smart home devices,Home Goods,Families,30$ - 99$,Wireless,4/13/2023,N/A,30%
+619,Audio Equipment,Laptops and desktops,Electronics,Families,100$ - 300$,Touchscreen,9/28/2022,N/A,20%
+620,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,30$ - 99$,Wireless,9/23/2022,N/A,50%
+621,Audio Equipment,Laptops and desktops,Electronics,Professionals,350$ - 500$,Camera,7/2/2022,N/A,10%
+622,Audio Equipment,Smart home devices,Home Goods,Families,70$ - 310$,Durable,5/13/2023,N/A,15%
+623,Audio Equipment,Smartphones and tablets,Electronics,General Public,200$ - 500$,Wireless,12/2/2022,N/A,15%
+624,Accessories,Speakers and soundbars,Home Goods,Families,100$ - 300$,Wireless,3/14/2023,N/A,10%
+625,Audio Equipment,Speakers and soundbars,Electronics,Professionals,50$ - 200$,Touchscreen,1/21/2023,N/A,25%
+626,Computing,Speakers and soundbars,Electronics,Audiophiles,70$ - 310$,Touchscreen,10/21/2022,N/A,15%
+627,Mobile Devices,Smartphones and tablets,Electronics,Families,200$ - 500$,Durable,8/26/2022,N/A,5%
+628,Mobile Devices,Speakers and soundbars,Home Goods,Audiophiles,350$ - 500$,Durable,4/9/2023,N/A,30%
+629,Accessories,Smartphones and tablets,Electronics,Professionals,200$ - 500$,Touchscreen,11/17/2022,N/A,15%
+630,Home Appliances,Headphones and wearables,Electronics,Families,200$ - 500$,High Fidelity Audio,6/18/2022,N/A,35%
+631,Audio Equipment,Speakers and soundbars,Home Goods,Families,50$ - 200$,Durable,5/9/2023,N/A,5%
+632,Home Appliances,Smart home devices,Electronics,General Public,50$ - 200$,Durable,8/9/2022,N/A,20%
+633,Home Appliances,Smartphones and tablets,Home Goods,Audiophiles,30$ - 99$,High Fidelity Audio,7/31/2022,N/A,10%
+634,Accessories,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,Durable,7/23/2022,N/A,15%
+635,Accessories,Smartphones and tablets,Electronics,Professionals,50$ - 200$,High Performance,7/20/2022,N/A,15%
+636,Computing,Smart home devices,Electronics,Professionals,30$ - 99$,High Performance,5/10/2023,N/A,25%
+637,Accessories,Smartphones and tablets,Electronics,Youth,70$ - 310$,Durable,10/20/2022,N/A,10%
+638,Accessories,Headphones and wearables,Electronics,Youth,100$ - 300$,Camera,6/2/2023,N/A,35%
+639,Home Appliances,Speakers and soundbars,Electronics,Audiophiles,200$ - 500$,Durable,11/4/2022,N/A,20%
+640,Computing,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,Camera,7/28/2022,N/A,5%
+641,Audio Equipment,Smart home devices,Electronics,Families,30$ - 99$,Durable,8/7/2022,N/A,35%
+642,Audio Equipment,Laptops and desktops,Home Goods,Professionals,50$ - 200$,Wireless,5/17/2023,N/A,10%
+643,Audio Equipment,Smart home devices,Home Goods,General Public,100$ - 300$,Camera,1/23/2023,N/A,40%
+644,Home Appliances,Speakers and soundbars,Electronics,Professionals,30$ - 99$,High Performance,1/30/2023,N/A,50%
+645,Mobile Devices,Smartphones and tablets,Electronics,Professionals,70$ - 310$,Smart Connectivity,11/9/2022,N/A,30%
+646,Mobile Devices,Headphones and wearables,Home Goods,Youth,30$ - 99$,Wireless,12/17/2022,N/A,15%
+647,Audio Equipment,Laptops and desktops,Electronics,Audiophiles,200$ - 500$,Durable,11/5/2022,N/A,25%
+648,Audio Equipment,Smartphones and tablets,Home Goods,Audiophiles,70$ - 310$,Durable,12/2/2022,N/A,15%
+649,Mobile Devices,Headphones and wearables,Home Goods,General Public,200$ - 500$,High Performance,7/13/2022,N/A,5%
+650,Audio Equipment,Laptops and desktops,Home Goods,General Public,350$ - 500$,Camera,3/22/2023,N/A,20%
+651,Audio Equipment,Smart home devices,Electronics,Youth,350$ - 500$,Touchscreen,10/16/2022,N/A,50%
+652,Home Appliances,Speakers and soundbars,Electronics,Families,70$ - 310$,Camera,11/8/2022,N/A,5%
+653,Audio Equipment,Smart home devices,Home Goods,General Public,100$ - 300$,Wireless,2/2/2023,N/A,30%
+654,Audio Equipment,Headphones and wearables,Electronics,Families,100$ - 300$,Touchscreen,3/26/2023,N/A,30%
+655,Computing,Headphones and wearables,Electronics,General Public,50$ - 200$,High Fidelity Audio,5/11/2023,N/A,30%
+656,Mobile Devices,Smartphones and tablets,Home Goods,Families,30$ - 99$,Durable,6/9/2023,N/A,35%
+657,Computing,Headphones and wearables,Electronics,Families,200$ - 500$,Smart Connectivity,1/3/2023,N/A,25%
+658,Home Appliances,Smart home devices,Home Goods,General Public,50$ - 200$,Touchscreen,10/21/2022,N/A,10%
+659,Mobile Devices,Headphones and wearables,Electronics,Youth,70$ - 310$,Smart Connectivity,9/10/2022,N/A,25%
+660,Mobile Devices,Smart home devices,Electronics,Youth,30$ - 99$,Camera,10/21/2022,N/A,35%
+661,Mobile Devices,Speakers and soundbars,Electronics,General Public,70$ - 310$,Wireless,11/27/2022,N/A,5%
+662,Computing,Smart home devices,Electronics,Families,100$ - 300$,Wireless,5/5/2023,N/A,35%
+663,Audio Equipment,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,Durable,7/29/2022,N/A,50%
+664,Accessories,Speakers and soundbars,Home Goods,Youth,70$ - 310$,Wireless,6/18/2022,N/A,40%
+665,Mobile Devices,Speakers and soundbars,Home Goods,Youth,70$ - 310$,Camera,9/2/2022,N/A,30%
+666,Home Appliances,Smartphones and tablets,Home Goods,Professionals,70$ - 310$,High Fidelity Audio,11/16/2022,N/A,25%
+667,Audio Equipment,Smartphones and tablets,Home Goods,Youth,70$ - 310$,Wireless,4/3/2023,N/A,15%
+668,Mobile Devices,Headphones and wearables,Home Goods,Professionals,50$ - 200$,Durable,4/4/2023,N/A,5%
+669,Accessories,Smart home devices,Home Goods,Youth,50$ - 200$,Wireless,3/24/2023,N/A,40%
+670,Mobile Devices,Smart home devices,Home Goods,Audiophiles,30$ - 99$,Camera,10/9/2022,N/A,15%
+671,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,100$ - 300$,Durable,8/5/2022,N/A,25%
+672,Audio Equipment,Headphones and wearables,Electronics,Families,30$ - 99$,Wireless,1/4/2023,N/A,10%
+673,Home Appliances,Smart home devices,Home Goods,Professionals,200$ - 500$,Wireless,11/1/2022,N/A,40%
+674,Computing,Smart home devices,Electronics,Audiophiles,70$ - 310$,Camera,10/1/2022,N/A,50%
+675,Home Appliances,Smartphones and tablets,Electronics,Families,30$ - 99$,High Fidelity Audio,7/22/2022,N/A,50%
+676,Audio Equipment,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,Durable,6/27/2022,N/A,50%
+677,Accessories,Smartphones and tablets,Electronics,Audiophiles,70$ - 310$,Durable,11/28/2022,N/A,50%
+678,Computing,Speakers and soundbars,Electronics,Professionals,50$ - 200$,Durable,4/5/2023,N/A,20%
+679,Mobile Devices,Speakers and soundbars,Electronics,Youth,50$ - 200$,High Fidelity Audio,9/29/2022,N/A,40%
+680,Mobile Devices,Speakers and soundbars,Electronics,General Public,350$ - 500$,Durable,4/9/2023,N/A,5%
+681,Mobile Devices,Smart home devices,Electronics,Audiophiles,70$ - 310$,Smart Connectivity,5/31/2023,N/A,10%
+682,Mobile Devices,Speakers and soundbars,Electronics,Youth,350$ - 500$,Durable,6/19/2022,N/A,30%
+683,Mobile Devices,Laptops and desktops,Home Goods,Professionals,30$ - 99$,High Performance,2/24/2023,N/A,50%
+684,Computing,Laptops and desktops,Home Goods,General Public,30$ - 99$,Durable,10/13/2022,N/A,15%
+685,Accessories,Laptops and desktops,Electronics,General Public,100$ - 300$,High Fidelity Audio,9/17/2022,N/A,35%
+686,Accessories,Headphones and wearables,Home Goods,Professionals,30$ - 99$,Camera,9/2/2022,N/A,35%
+687,Audio Equipment,Speakers and soundbars,Electronics,Youth,350$ - 500$,High Fidelity Audio,4/6/2023,N/A,5%
+688,Accessories,Headphones and wearables,Electronics,Professionals,100$ - 300$,Wireless,4/25/2023,N/A,40%
+689,Accessories,Speakers and soundbars,Home Goods,Youth,100$ - 300$,Wireless,1/11/2023,N/A,15%
+690,Home Appliances,Speakers and soundbars,Home Goods,Audiophiles,50$ - 200$,Wireless,3/12/2023,N/A,15%
+691,Mobile Devices,Speakers and soundbars,Electronics,Audiophiles,70$ - 310$,High Performance,1/14/2023,N/A,30%
+692,Audio Equipment,Headphones and wearables,Electronics,Youth,200$ - 500$,Durable,10/12/2022,N/A,25%
+693,Home Appliances,Smart home devices,Home Goods,General Public,50$ - 200$,Wireless,10/30/2022,N/A,25%
+694,Audio Equipment,Speakers and soundbars,Electronics,Families,100$ - 300$,Durable,7/20/2022,N/A,40%
+695,Home Appliances,Smart home devices,Electronics,Families,100$ - 300$,Smart Connectivity,6/2/2023,N/A,25%
+696,Mobile Devices,Smart home devices,Home Goods,Youth,200$ - 500$,Durable,4/29/2023,N/A,20%
+697,Audio Equipment,Headphones and wearables,Electronics,General Public,50$ - 200$,Smart Connectivity,9/11/2022,N/A,20%
+698,Computing,Smartphones and tablets,Electronics,Professionals,100$ - 300$,Touchscreen,11/17/2022,N/A,10%
+699,Accessories,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,Wireless,10/1/2022,N/A,5%
+700,Mobile Devices,Smartphones and tablets,Electronics,General Public,70$ - 310$,Durable,8/15/2022,N/A,40%
+701,Mobile Devices,Headphones and wearables,Home Goods,Professionals,100$ - 300$,Wireless,11/3/2022,N/A,20%
+702,Mobile Devices,Smart home devices,Home Goods,Families,50$ - 200$,High Performance,4/30/2023,N/A,25%
+703,Audio Equipment,Laptops and desktops,Home Goods,Audiophiles,200$ - 500$,Wireless,7/4/2022,N/A,25%
+704,Audio Equipment,Laptops and desktops,Electronics,Audiophiles,70$ - 310$,Durable,12/1/2022,N/A,5%
+705,Computing,Smartphones and tablets,Home Goods,Audiophiles,100$ - 300$,High Performance,2/8/2023,N/A,30%
+706,Computing,Smart home devices,Home Goods,Families,200$ - 500$,Wireless,9/24/2022,N/A,15%
+707,Audio Equipment,Speakers and soundbars,Electronics,Professionals,70$ - 310$,High Performance,7/12/2022,N/A,50%
+708,Audio Equipment,Smart home devices,Electronics,Professionals,100$ - 300$,Camera,12/13/2022,N/A,10%
+709,Home Appliances,Headphones and wearables,Home Goods,Youth,200$ - 500$,Camera,6/13/2023,N/A,50%
+710,Mobile Devices,Speakers and soundbars,Electronics,Professionals,30$ - 99$,Touchscreen,5/22/2023,N/A,40%
+711,Mobile Devices,Laptops and desktops,Home Goods,Professionals,100$ - 300$,Camera,3/4/2023,N/A,15%
+712,Audio Equipment,Headphones and wearables,Electronics,Professionals,50$ - 200$,High Performance,9/3/2022,N/A,40%
+713,Computing,Laptops and desktops,Electronics,Families,100$ - 300$,Wireless,6/17/2022,N/A,40%
+714,Home Appliances,Headphones and wearables,Home Goods,Audiophiles,70$ - 310$,Wireless,7/5/2022,N/A,10%
+715,Computing,Headphones and wearables,Electronics,Families,350$ - 500$,Touchscreen,1/26/2023,N/A,40%
+716,Audio Equipment,Smart home devices,Electronics,Professionals,350$ - 500$,High Fidelity Audio,11/3/2022,N/A,5%
+717,Home Appliances,Speakers and soundbars,Home Goods,General Public,100$ - 300$,High Fidelity Audio,2/9/2023,N/A,25%
+718,Computing,Laptops and desktops,Electronics,Audiophiles,50$ - 200$,Smart Connectivity,9/26/2022,N/A,35%
+719,Mobile Devices,Smart home devices,Home Goods,General Public,200$ - 500$,Durable,1/25/2023,N/A,10%
+720,Computing,Smart home devices,Home Goods,General Public,200$ - 500$,High Performance,7/23/2022,N/A,40%
+721,Computing,Laptops and desktops,Home Goods,Audiophiles,70$ - 310$,High Fidelity Audio,9/2/2022,N/A,10%
+722,Computing,Laptops and desktops,Electronics,Youth,70$ - 310$,Camera,3/20/2023,N/A,30%
+723,Home Appliances,Smart home devices,Electronics,General Public,50$ - 200$,High Fidelity Audio,4/27/2023,N/A,10%
+724,Audio Equipment,Headphones and wearables,Home Goods,Youth,70$ - 310$,High Performance,5/25/2023,N/A,15%
+725,Home Appliances,Smart home devices,Home Goods,Families,50$ - 200$,Touchscreen,5/13/2023,N/A,15%
+726,Audio Equipment,Speakers and soundbars,Electronics,Youth,70$ - 310$,High Performance,3/6/2023,N/A,15%
+727,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,High Fidelity Audio,9/20/2022,N/A,20%
+728,Home Appliances,Headphones and wearables,Electronics,Professionals,200$ - 500$,Wireless,8/2/2022,N/A,5%
+729,Home Appliances,Laptops and desktops,Home Goods,General Public,100$ - 300$,Smart Connectivity,1/3/2023,N/A,15%
+730,Computing,Smart home devices,Electronics,Professionals,200$ - 500$,Smart Connectivity,4/13/2023,N/A,35%
+731,Accessories,Speakers and soundbars,Electronics,Families,350$ - 500$,Touchscreen,3/24/2023,N/A,20%
+732,Computing,Laptops and desktops,Electronics,Audiophiles,70$ - 310$,High Fidelity Audio,12/5/2022,N/A,50%
+733,Accessories,Headphones and wearables,Electronics,General Public,200$ - 500$,Touchscreen,10/5/2022,N/A,50%
+734,Home Appliances,Speakers and soundbars,Electronics,General Public,350$ - 500$,Durable,4/17/2023,N/A,50%
+735,Computing,Smart home devices,Electronics,Audiophiles,200$ - 500$,Wireless,8/12/2022,N/A,5%
+736,Computing,Speakers and soundbars,Home Goods,Audiophiles,50$ - 200$,High Fidelity Audio,3/1/2023,N/A,30%
+737,Computing,Speakers and soundbars,Home Goods,Families,350$ - 500$,High Performance,8/27/2022,N/A,15%
+738,Computing,Smart home devices,Electronics,Families,70$ - 310$,High Performance,6/12/2023,N/A,50%
+739,Computing,Smartphones and tablets,Electronics,Professionals,30$ - 99$,Smart Connectivity,9/24/2022,N/A,20%
+740,Accessories,Laptops and desktops,Electronics,Professionals,350$ - 500$,Wireless,7/3/2022,N/A,10%
+741,Home Appliances,Headphones and wearables,Home Goods,Professionals,350$ - 500$,High Performance,6/4/2023,N/A,25%
+742,Accessories,Speakers and soundbars,Electronics,Professionals,70$ - 310$,Touchscreen,1/27/2023,N/A,20%
+743,Home Appliances,Headphones and wearables,Electronics,Audiophiles,100$ - 300$,Durable,4/6/2023,N/A,35%
+744,Accessories,Laptops and desktops,Electronics,Families,350$ - 500$,Touchscreen,2/10/2023,N/A,30%
+745,Mobile Devices,Laptops and desktops,Electronics,Professionals,350$ - 500$,Touchscreen,4/28/2023,N/A,10%
+746,Audio Equipment,Smartphones and tablets,Electronics,Audiophiles,100$ - 300$,High Fidelity Audio,4/25/2023,N/A,40%
+747,Audio Equipment,Smartphones and tablets,Electronics,General Public,70$ - 310$,High Performance,2/25/2023,N/A,50%
+748,Accessories,Laptops and desktops,Electronics,Professionals,100$ - 300$,High Fidelity Audio,12/29/2022,N/A,30%
+749,Accessories,Smartphones and tablets,Home Goods,Families,350$ - 500$,Wireless,1/10/2023,N/A,30%
+750,Computing,Speakers and soundbars,Home Goods,Families,200$ - 500$,Smart Connectivity,4/13/2023,N/A,40%
+751,Computing,Laptops and desktops,Home Goods,General Public,350$ - 500$,Touchscreen,6/29/2022,N/A,25%
+752,Audio Equipment,Smartphones and tablets,Electronics,General Public,70$ - 310$,High Performance,6/16/2022,N/A,10%
+753,Mobile Devices,Headphones and wearables,Home Goods,Families,100$ - 300$,Touchscreen,4/25/2023,N/A,40%
+754,Audio Equipment,Laptops and desktops,Home Goods,General Public,50$ - 200$,High Performance,1/7/2023,N/A,50%
+755,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Camera,8/6/2022,N/A,20%
+756,Home Appliances,Smartphones and tablets,Electronics,Professionals,50$ - 200$,Wireless,12/23/2022,N/A,20%
+757,Audio Equipment,Smartphones and tablets,Home Goods,Youth,30$ - 99$,Wireless,3/29/2023,N/A,15%
+758,Accessories,Headphones and wearables,Electronics,Youth,50$ - 200$,Wireless,12/29/2022,N/A,30%
+759,Accessories,Speakers and soundbars,Electronics,General Public,30$ - 99$,High Fidelity Audio,12/20/2022,N/A,40%
+760,Home Appliances,Laptops and desktops,Electronics,General Public,200$ - 500$,Durable,4/23/2023,N/A,35%
+761,Accessories,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,Camera,4/24/2023,N/A,35%
+762,Accessories,Smartphones and tablets,Electronics,Families,70$ - 310$,Wireless,3/16/2023,N/A,50%
+763,Home Appliances,Speakers and soundbars,Electronics,Families,200$ - 500$,Touchscreen,5/12/2023,N/A,20%
+764,Audio Equipment,Laptops and desktops,Home Goods,Families,50$ - 200$,High Performance,6/7/2023,N/A,15%
+765,Computing,Smart home devices,Electronics,Audiophiles,50$ - 200$,Touchscreen,10/3/2022,N/A,40%
+766,Mobile Devices,Smart home devices,Home Goods,Professionals,200$ - 500$,High Fidelity Audio,10/1/2022,N/A,10%
+767,Home Appliances,Smart home devices,Electronics,General Public,30$ - 99$,Durable,10/23/2022,N/A,15%
+768,Accessories,Laptops and desktops,Electronics,Youth,200$ - 500$,High Fidelity Audio,3/31/2023,N/A,10%
+769,Accessories,Smartphones and tablets,Electronics,Audiophiles,30$ - 99$,Touchscreen,4/17/2023,N/A,50%
+770,Computing,Headphones and wearables,Home Goods,Families,350$ - 500$,High Fidelity Audio,4/28/2023,N/A,30%
+771,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,100$ - 300$,High Performance,12/5/2022,N/A,35%
+772,Accessories,Smart home devices,Home Goods,Youth,70$ - 310$,Touchscreen,10/9/2022,N/A,5%
+773,Computing,Smart home devices,Electronics,Professionals,350$ - 500$,Camera,11/22/2022,N/A,10%
+774,Accessories,Speakers and soundbars,Home Goods,Audiophiles,350$ - 500$,High Performance,7/2/2022,N/A,40%
+775,Audio Equipment,Laptops and desktops,Electronics,General Public,70$ - 310$,Smart Connectivity,10/26/2022,N/A,50%
+776,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,350$ - 500$,Camera,4/28/2023,N/A,50%
+777,Accessories,Smart home devices,Electronics,Audiophiles,70$ - 310$,Camera,4/22/2023,N/A,30%
+778,Accessories,Smartphones and tablets,Home Goods,General Public,100$ - 300$,Touchscreen,11/13/2022,N/A,40%
+779,Accessories,Smart home devices,Electronics,Professionals,200$ - 500$,High Fidelity Audio,12/19/2022,N/A,5%
+780,Home Appliances,Smartphones and tablets,Home Goods,Youth,30$ - 99$,Smart Connectivity,9/9/2022,N/A,35%
+781,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Touchscreen,5/9/2023,N/A,30%
+782,Home Appliances,Headphones and wearables,Home Goods,Audiophiles,50$ - 200$,Durable,9/26/2022,N/A,10%
+783,Computing,Laptops and desktops,Electronics,Families,200$ - 500$,High Fidelity Audio,2/18/2023,N/A,15%
+784,Audio Equipment,Smartphones and tablets,Electronics,General Public,100$ - 300$,Touchscreen,5/11/2023,N/A,30%
+785,Home Appliances,Smartphones and tablets,Electronics,Professionals,50$ - 200$,Smart Connectivity,1/23/2023,N/A,50%
+786,Mobile Devices,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,Smart Connectivity,10/16/2022,N/A,5%
+787,Accessories,Speakers and soundbars,Home Goods,Professionals,70$ - 310$,High Fidelity Audio,7/16/2022,N/A,10%
+788,Computing,Headphones and wearables,Home Goods,General Public,30$ - 99$,Durable,10/11/2022,N/A,5%
+789,Mobile Devices,Headphones and wearables,Electronics,Professionals,70$ - 310$,Touchscreen,5/21/2023,N/A,50%
+790,Accessories,Headphones and wearables,Electronics,Youth,350$ - 500$,High Fidelity Audio,8/28/2022,N/A,15%
+791,Home Appliances,Smartphones and tablets,Home Goods,Youth,100$ - 300$,Smart Connectivity,10/9/2022,N/A,20%
+792,Mobile Devices,Laptops and desktops,Electronics,Youth,70$ - 310$,Touchscreen,12/10/2022,N/A,15%
+793,Accessories,Headphones and wearables,Electronics,Families,200$ - 500$,Camera,7/12/2022,N/A,20%
+794,Computing,Speakers and soundbars,Electronics,Youth,70$ - 310$,Camera,5/11/2023,N/A,35%
+795,Audio Equipment,Headphones and wearables,Electronics,Youth,50$ - 200$,Touchscreen,5/12/2023,N/A,35%
+796,Audio Equipment,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,Camera,9/27/2022,N/A,10%
+797,Audio Equipment,Speakers and soundbars,Home Goods,Families,50$ - 200$,Smart Connectivity,1/14/2023,N/A,5%
+798,Accessories,Smartphones and tablets,Electronics,Professionals,350$ - 500$,Wireless,10/24/2022,N/A,30%
+799,Computing,Smart home devices,Electronics,Families,100$ - 300$,High Performance,6/15/2022,N/A,5%
+800,Computing,Smartphones and tablets,Electronics,Audiophiles,30$ - 99$,Touchscreen,12/13/2022,N/A,20%
+801,Home Appliances,Laptops and desktops,Home Goods,Families,350$ - 500$,High Performance,7/24/2022,N/A,40%
+802,Home Appliances,Smartphones and tablets,Electronics,Families,350$ - 500$,Wireless,7/26/2022,N/A,5%
+803,Mobile Devices,Headphones and wearables,Electronics,General Public,30$ - 99$,Durable,5/30/2023,N/A,50%
+804,Accessories,Laptops and desktops,Electronics,Families,50$ - 200$,Touchscreen,2/17/2023,N/A,40%
+805,Home Appliances,Laptops and desktops,Electronics,Audiophiles,50$ - 200$,High Performance,5/26/2023,N/A,5%
+806,Mobile Devices,Laptops and desktops,Electronics,Audiophiles,200$ - 500$,Smart Connectivity,1/30/2023,N/A,5%
+807,Computing,Speakers and soundbars,Electronics,Families,200$ - 500$,High Performance,2/4/2023,N/A,40%
+808,Computing,Speakers and soundbars,Electronics,Youth,70$ - 310$,Wireless,11/21/2022,N/A,15%
+809,Home Appliances,Headphones and wearables,Electronics,General Public,70$ - 310$,High Performance,11/29/2022,N/A,30%
+810,Mobile Devices,Headphones and wearables,Home Goods,Professionals,100$ - 300$,Smart Connectivity,4/18/2023,N/A,10%
+811,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,30$ - 99$,Camera,11/22/2022,N/A,5%
+812,Computing,Smart home devices,Home Goods,Youth,30$ - 99$,High Performance,9/2/2022,N/A,10%
+813,Audio Equipment,Headphones and wearables,Electronics,Audiophiles,350$ - 500$,Wireless,4/21/2023,N/A,40%
+814,Home Appliances,Laptops and desktops,Electronics,Audiophiles,30$ - 99$,High Performance,5/19/2023,N/A,5%
+815,Computing,Speakers and soundbars,Home Goods,Families,100$ - 300$,High Fidelity Audio,9/3/2022,N/A,5%
+816,Audio Equipment,Speakers and soundbars,Electronics,Youth,50$ - 200$,Durable,4/15/2023,N/A,30%
+817,Computing,Headphones and wearables,Home Goods,Families,350$ - 500$,High Fidelity Audio,12/24/2022,N/A,5%
+818,Audio Equipment,Smart home devices,Electronics,Professionals,30$ - 99$,High Performance,7/12/2022,N/A,30%
+819,Audio Equipment,Smart home devices,Electronics,Professionals,70$ - 310$,Touchscreen,11/28/2022,N/A,25%
+820,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,350$ - 500$,Wireless,10/20/2022,N/A,20%
+821,Accessories,Smartphones and tablets,Home Goods,General Public,50$ - 200$,Touchscreen,10/12/2022,N/A,10%
+822,Audio Equipment,Laptops and desktops,Home Goods,General Public,100$ - 300$,Touchscreen,1/16/2023,N/A,40%
+823,Mobile Devices,Smart home devices,Home Goods,Audiophiles,70$ - 310$,High Performance,5/27/2023,N/A,10%
+824,Accessories,Speakers and soundbars,Home Goods,General Public,350$ - 500$,Wireless,5/14/2023,N/A,25%
+825,Home Appliances,Speakers and soundbars,Electronics,Families,30$ - 99$,Wireless,6/7/2023,N/A,40%
+826,Computing,Laptops and desktops,Home Goods,General Public,200$ - 500$,Smart Connectivity,9/29/2022,N/A,5%
+827,Accessories,Smart home devices,Home Goods,Youth,30$ - 99$,Smart Connectivity,3/20/2023,N/A,35%
+828,Computing,Smart home devices,Home Goods,Youth,70$ - 310$,Camera,10/31/2022,N/A,10%
+829,Home Appliances,Smart home devices,Home Goods,General Public,350$ - 500$,High Performance,8/31/2022,N/A,25%
+830,Mobile Devices,Smartphones and tablets,Home Goods,Youth,100$ - 300$,Touchscreen,6/23/2022,N/A,25%
+831,Audio Equipment,Smart home devices,Home Goods,Families,70$ - 310$,Wireless,2/19/2023,N/A,30%
+832,Audio Equipment,Speakers and soundbars,Electronics,Professionals,70$ - 310$,Camera,11/5/2022,N/A,5%
+833,Accessories,Laptops and desktops,Electronics,Families,30$ - 99$,Wireless,12/25/2022,N/A,20%
+834,Accessories,Smartphones and tablets,Home Goods,Audiophiles,350$ - 500$,Camera,11/5/2022,N/A,30%
+835,Audio Equipment,Smart home devices,Home Goods,General Public,200$ - 500$,Smart Connectivity,6/27/2022,N/A,40%
+836,Mobile Devices,Headphones and wearables,Home Goods,Youth,100$ - 300$,Touchscreen,9/12/2022,N/A,10%
+837,Audio Equipment,Headphones and wearables,Home Goods,Youth,100$ - 300$,Smart Connectivity,8/4/2022,N/A,20%
+838,Mobile Devices,Smart home devices,Electronics,Professionals,50$ - 200$,High Fidelity Audio,11/6/2022,N/A,30%
+839,Audio Equipment,Speakers and soundbars,Home Goods,Youth,50$ - 200$,High Performance,11/30/2022,N/A,30%
+840,Home Appliances,Speakers and soundbars,Electronics,Families,50$ - 200$,Camera,4/21/2023,N/A,30%
+841,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,50$ - 200$,High Fidelity Audio,7/19/2022,N/A,40%
+842,Accessories,Laptops and desktops,Home Goods,Families,70$ - 310$,Touchscreen,11/7/2022,N/A,5%
+843,Mobile Devices,Smartphones and tablets,Home Goods,Audiophiles,100$ - 300$,High Fidelity Audio,6/3/2023,N/A,50%
+844,Home Appliances,Speakers and soundbars,Home Goods,Youth,100$ - 300$,Wireless,10/27/2022,N/A,30%
+845,Audio Equipment,Headphones and wearables,Home Goods,General Public,30$ - 99$,Touchscreen,9/26/2022,N/A,15%
+846,Home Appliances,Speakers and soundbars,Electronics,Professionals,100$ - 300$,High Fidelity Audio,1/13/2023,N/A,35%
+847,Computing,Speakers and soundbars,Home Goods,Audiophiles,50$ - 200$,Smart Connectivity,9/13/2022,N/A,10%
+848,Home Appliances,Smart home devices,Home Goods,Families,70$ - 310$,High Performance,8/14/2022,N/A,50%
+849,Computing,Smart home devices,Electronics,Families,200$ - 500$,Wireless,11/5/2022,N/A,50%
+850,Computing,Smartphones and tablets,Electronics,General Public,70$ - 310$,Smart Connectivity,8/7/2022,N/A,30%
+851,Accessories,Smartphones and tablets,Home Goods,Audiophiles,70$ - 310$,Touchscreen,11/27/2022,N/A,30%
+852,Audio Equipment,Smartphones and tablets,Electronics,General Public,30$ - 99$,Durable,8/15/2022,N/A,20%
+853,Computing,Smart home devices,Electronics,Families,100$ - 300$,High Fidelity Audio,2/12/2023,N/A,50%
+854,Accessories,Headphones and wearables,Electronics,Youth,50$ - 200$,Smart Connectivity,7/10/2022,N/A,40%
+855,Mobile Devices,Smart home devices,Home Goods,Professionals,50$ - 200$,Camera,9/13/2022,N/A,20%
+856,Computing,Speakers and soundbars,Electronics,General Public,70$ - 310$,Camera,12/4/2022,N/A,35%
+857,Audio Equipment,Smart home devices,Home Goods,Audiophiles,50$ - 200$,Touchscreen,6/14/2023,N/A,30%
+858,Audio Equipment,Speakers and soundbars,Electronics,General Public,50$ - 200$,Touchscreen,7/1/2022,N/A,30%
+859,Audio Equipment,Smart home devices,Home Goods,Families,100$ - 300$,Smart Connectivity,5/26/2023,N/A,25%
+860,Mobile Devices,Smart home devices,Electronics,Audiophiles,200$ - 500$,Durable,7/5/2022,N/A,30%
+861,Computing,Headphones and wearables,Home Goods,Families,30$ - 99$,High Performance,3/24/2023,N/A,35%
+862,Audio Equipment,Headphones and wearables,Home Goods,Families,100$ - 300$,Smart Connectivity,1/28/2023,N/A,30%
+863,Home Appliances,Headphones and wearables,Electronics,Audiophiles,30$ - 99$,Touchscreen,2/20/2023,N/A,5%
+864,Computing,Smartphones and tablets,Home Goods,Youth,100$ - 300$,Camera,3/18/2023,N/A,50%
+865,Home Appliances,Smartphones and tablets,Electronics,Professionals,30$ - 99$,Durable,11/24/2022,N/A,5%
+866,Accessories,Smart home devices,Electronics,Audiophiles,100$ - 300$,Camera,12/29/2022,N/A,35%
+867,Mobile Devices,Smart home devices,Electronics,Professionals,200$ - 500$,High Fidelity Audio,9/29/2022,N/A,15%
+868,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,50$ - 200$,Durable,9/1/2022,N/A,15%
+869,Computing,Speakers and soundbars,Home Goods,Families,50$ - 200$,High Fidelity Audio,11/1/2022,N/A,15%
+870,Mobile Devices,Laptops and desktops,Electronics,Professionals,100$ - 300$,Touchscreen,11/6/2022,N/A,40%
+871,Mobile Devices,Smart home devices,Electronics,Families,350$ - 500$,Smart Connectivity,7/10/2022,N/A,40%
+872,Computing,Laptops and desktops,Electronics,Audiophiles,100$ - 300$,Camera,1/24/2023,N/A,25%
+873,Audio Equipment,Laptops and desktops,Home Goods,Families,350$ - 500$,Touchscreen,1/15/2023,N/A,20%
+874,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,Touchscreen,12/4/2022,N/A,30%
+875,Audio Equipment,Laptops and desktops,Electronics,Professionals,350$ - 500$,High Fidelity Audio,8/13/2022,N/A,15%
+876,Audio Equipment,Speakers and soundbars,Home Goods,Youth,50$ - 200$,Camera,7/11/2022,N/A,50%
+877,Computing,Headphones and wearables,Home Goods,Families,30$ - 99$,Wireless,8/27/2022,N/A,35%
+878,Accessories,Headphones and wearables,Electronics,Families,30$ - 99$,Camera,8/30/2022,N/A,15%
+879,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,100$ - 300$,Wireless,7/13/2022,N/A,15%
+880,Computing,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,Wireless,11/24/2022,N/A,50%
+881,Audio Equipment,Speakers and soundbars,Electronics,Audiophiles,70$ - 310$,Durable,5/13/2023,N/A,25%
+882,Audio Equipment,Smartphones and tablets,Electronics,Youth,100$ - 300$,Wireless,7/26/2022,N/A,25%
+883,Mobile Devices,Laptops and desktops,Home Goods,Professionals,30$ - 99$,Wireless,6/20/2022,N/A,20%
+884,Computing,Speakers and soundbars,Home Goods,Professionals,30$ - 99$,High Performance,7/24/2022,N/A,35%
+885,Home Appliances,Laptops and desktops,Home Goods,Youth,50$ - 200$,Wireless,9/7/2022,N/A,5%
+886,Accessories,Headphones and wearables,Electronics,Youth,50$ - 200$,High Performance,4/16/2023,N/A,35%
+887,Mobile Devices,Smartphones and tablets,Home Goods,Youth,200$ - 500$,Durable,9/5/2022,N/A,50%
+888,Mobile Devices,Smartphones and tablets,Electronics,Audiophiles,50$ - 200$,High Fidelity Audio,4/7/2023,N/A,40%
+889,Home Appliances,Smart home devices,Electronics,Audiophiles,70$ - 310$,Wireless,6/12/2023,N/A,15%
+890,Audio Equipment,Laptops and desktops,Home Goods,Professionals,200$ - 500$,Touchscreen,12/6/2022,N/A,5%
+891,Accessories,Smartphones and tablets,Home Goods,Youth,30$ - 99$,Wireless,2/5/2023,N/A,50%
+892,Computing,Headphones and wearables,Home Goods,Professionals,100$ - 300$,Camera,12/6/2022,N/A,30%
+893,Mobile Devices,Laptops and desktops,Home Goods,Youth,350$ - 500$,High Fidelity Audio,2/2/2023,N/A,20%
+894,Accessories,Headphones and wearables,Home Goods,Audiophiles,200$ - 500$,Smart Connectivity,12/17/2022,N/A,5%
+895,Accessories,Headphones and wearables,Home Goods,Audiophiles,50$ - 200$,High Fidelity Audio,7/16/2022,N/A,5%
+896,Mobile Devices,Speakers and soundbars,Electronics,General Public,350$ - 500$,Durable,8/28/2022,N/A,30%
+897,Home Appliances,Headphones and wearables,Electronics,Professionals,200$ - 500$,High Performance,5/31/2023,N/A,5%
+898,Audio Equipment,Smart home devices,Electronics,Youth,70$ - 310$,Wireless,9/27/2022,N/A,30%
+899,Computing,Headphones and wearables,Home Goods,General Public,30$ - 99$,Smart Connectivity,6/14/2023,N/A,30%
+900,Audio Equipment,Smartphones and tablets,Home Goods,Families,200$ - 500$,High Performance,8/24/2022,N/A,10%
+901,Accessories,Smartphones and tablets,Home Goods,Audiophiles,50$ - 200$,High Fidelity Audio,5/30/2023,N/A,10%
+902,Mobile Devices,Headphones and wearables,Electronics,General Public,100$ - 300$,Durable,9/27/2022,N/A,5%
+903,Accessories,Laptops and desktops,Home Goods,General Public,350$ - 500$,Durable,5/18/2023,N/A,40%
+904,Audio Equipment,Smartphones and tablets,Electronics,Professionals,200$ - 500$,Smart Connectivity,3/29/2023,N/A,25%
+905,Mobile Devices,Headphones and wearables,Electronics,Professionals,30$ - 99$,High Fidelity Audio,2/26/2023,N/A,50%
+906,Computing,Speakers and soundbars,Electronics,Professionals,50$ - 200$,High Fidelity Audio,11/18/2022,N/A,50%
+907,Home Appliances,Smartphones and tablets,Electronics,Professionals,200$ - 500$,High Performance,5/5/2023,N/A,35%
+908,Mobile Devices,Speakers and soundbars,Electronics,General Public,350$ - 500$,Camera,4/27/2023,N/A,30%
+909,Computing,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,High Performance,9/4/2022,N/A,50%
+910,Computing,Smart home devices,Home Goods,Professionals,30$ - 99$,Wireless,1/11/2023,N/A,15%
+911,Accessories,Speakers and soundbars,Home Goods,Families,200$ - 500$,High Performance,5/17/2023,N/A,50%
+912,Accessories,Headphones and wearables,Home Goods,Families,200$ - 500$,Wireless,2/17/2023,N/A,10%
+913,Home Appliances,Smart home devices,Home Goods,General Public,50$ - 200$,Touchscreen,1/14/2023,N/A,30%
+914,Audio Equipment,Laptops and desktops,Home Goods,Professionals,100$ - 300$,High Fidelity Audio,9/14/2022,N/A,35%
+915,Accessories,Headphones and wearables,Home Goods,Audiophiles,70$ - 310$,Durable,5/14/2023,N/A,20%
+916,Audio Equipment,Smartphones and tablets,Electronics,Youth,70$ - 310$,Wireless,12/23/2022,N/A,5%
+917,Computing,Smart home devices,Electronics,Professionals,200$ - 500$,Wireless,9/2/2022,N/A,15%
+918,Audio Equipment,Laptops and desktops,Home Goods,Youth,100$ - 300$,Camera,11/1/2022,N/A,40%
+919,Home Appliances,Headphones and wearables,Home Goods,General Public,50$ - 200$,High Fidelity Audio,12/5/2022,N/A,35%
+920,Mobile Devices,Speakers and soundbars,Home Goods,Families,50$ - 200$,Touchscreen,3/11/2023,N/A,30%
+921,Computing,Laptops and desktops,Electronics,Youth,50$ - 200$,Durable,12/4/2022,N/A,35%
+922,Audio Equipment,Headphones and wearables,Home Goods,Professionals,30$ - 99$,High Performance,9/2/2022,N/A,5%
+923,Accessories,Smart home devices,Home Goods,General Public,70$ - 310$,Smart Connectivity,9/29/2022,N/A,30%
+924,Accessories,Smart home devices,Home Goods,General Public,70$ - 310$,Camera,9/23/2022,N/A,50%
+925,Mobile Devices,Laptops and desktops,Home Goods,Audiophiles,100$ - 300$,Touchscreen,9/13/2022,N/A,35%
+926,Home Appliances,Speakers and soundbars,Home Goods,Families,350$ - 500$,Durable,10/12/2022,N/A,20%
+927,Accessories,Laptops and desktops,Home Goods,Youth,350$ - 500$,Durable,5/18/2023,N/A,15%
+928,Computing,Laptops and desktops,Home Goods,Families,70$ - 310$,Camera,6/24/2022,N/A,40%
+929,Computing,Laptops and desktops,Home Goods,Youth,350$ - 500$,High Fidelity Audio,2/3/2023,N/A,20%
+930,Computing,Headphones and wearables,Electronics,General Public,70$ - 310$,Wireless,4/14/2023,N/A,30%
+931,Accessories,Laptops and desktops,Home Goods,Families,100$ - 300$,High Fidelity Audio,5/28/2023,N/A,5%
+932,Accessories,Speakers and soundbars,Home Goods,Audiophiles,100$ - 300$,Wireless,8/21/2022,N/A,5%
+933,Mobile Devices,Smartphones and tablets,Electronics,General Public,70$ - 310$,Wireless,10/13/2022,N/A,5%
+934,Computing,Smart home devices,Electronics,Audiophiles,30$ - 99$,Wireless,10/29/2022,N/A,20%
+935,Mobile Devices,Headphones and wearables,Electronics,Audiophiles,200$ - 500$,High Performance,11/23/2022,N/A,10%
+936,Computing,Speakers and soundbars,Home Goods,General Public,100$ - 300$,High Fidelity Audio,4/29/2023,N/A,5%
+937,Accessories,Laptops and desktops,Home Goods,Audiophiles,50$ - 200$,Durable,5/11/2023,N/A,15%
+938,Computing,Smart home devices,Home Goods,Professionals,350$ - 500$,High Performance,11/29/2022,N/A,40%
+939,Audio Equipment,Laptops and desktops,Home Goods,Youth,70$ - 310$,Durable,2/3/2023,N/A,10%
+940,Home Appliances,Smartphones and tablets,Home Goods,Youth,350$ - 500$,High Performance,2/15/2023,N/A,15%
+941,Home Appliances,Smartphones and tablets,Electronics,Families,70$ - 310$,Camera,9/25/2022,N/A,10%
+942,Home Appliances,Speakers and soundbars,Home Goods,Families,350$ - 500$,Smart Connectivity,4/15/2023,N/A,25%
+943,Audio Equipment,Laptops and desktops,Electronics,Families,30$ - 99$,Durable,10/18/2022,N/A,30%
+944,Computing,Speakers and soundbars,Home Goods,Youth,50$ - 200$,High Fidelity Audio,10/21/2022,N/A,15%
+945,Accessories,Laptops and desktops,Home Goods,Youth,30$ - 99$,Touchscreen,10/2/2022,N/A,35%
+946,Accessories,Laptops and desktops,Home Goods,Audiophiles,70$ - 310$,Smart Connectivity,12/10/2022,N/A,35%
+947,Mobile Devices,Smartphones and tablets,Home Goods,Families,350$ - 500$,High Performance,5/3/2023,N/A,5%
+948,Accessories,Laptops and desktops,Electronics,Families,70$ - 310$,Touchscreen,9/6/2022,N/A,50%
+949,Computing,Headphones and wearables,Home Goods,Families,200$ - 500$,Camera,6/6/2023,N/A,40%
+950,Accessories,Smartphones and tablets,Home Goods,Audiophiles,350$ - 500$,Wireless,2/26/2023,N/A,10%
+951,Computing,Laptops and desktops,Home Goods,Audiophiles,350$ - 500$,High Performance,12/5/2022,N/A,25%
+952,Home Appliances,Laptops and desktops,Electronics,Youth,50$ - 200$,Camera,8/6/2022,N/A,25%
+953,Computing,Laptops and desktops,Electronics,Audiophiles,70$ - 310$,Camera,1/2/2023,N/A,15%
+954,Accessories,Smartphones and tablets,Home Goods,General Public,30$ - 99$,High Fidelity Audio,11/7/2022,N/A,30%
+955,Accessories,Smart home devices,Home Goods,Youth,30$ - 99$,High Fidelity Audio,9/27/2022,N/A,15%
+956,Accessories,Headphones and wearables,Home Goods,Audiophiles,100$ - 300$,High Performance,10/14/2022,N/A,40%
+957,Home Appliances,Smart home devices,Home Goods,Families,30$ - 99$,Durable,7/18/2022,N/A,35%
+958,Accessories,Smart home devices,Electronics,General Public,50$ - 200$,High Performance,8/27/2022,N/A,50%
+959,Home Appliances,Smart home devices,Electronics,Families,30$ - 99$,Durable,5/2/2023,N/A,50%
+960,Mobile Devices,Headphones and wearables,Home Goods,Audiophiles,30$ - 99$,Durable,12/16/2022,N/A,35%
+961,Computing,Headphones and wearables,Electronics,Professionals,70$ - 310$,High Performance,10/7/2022,N/A,15%
+962,Computing,Smart home devices,Electronics,Professionals,350$ - 500$,Wireless,11/29/2022,N/A,10%
+963,Home Appliances,Smart home devices,Home Goods,Professionals,70$ - 310$,High Fidelity Audio,11/16/2022,N/A,35%
+964,Accessories,Smart home devices,Electronics,Families,200$ - 500$,High Fidelity Audio,4/22/2023,N/A,40%
+965,Home Appliances,Smartphones and tablets,Home Goods,Professionals,50$ - 200$,Smart Connectivity,6/4/2023,N/A,40%
+966,Accessories,Smartphones and tablets,Home Goods,General Public,200$ - 500$,Durable,10/28/2022,N/A,15%
+967,Home Appliances,Laptops and desktops,Home Goods,Audiophiles,350$ - 500$,Touchscreen,1/22/2023,N/A,25%
+968,Accessories,Smart home devices,Electronics,Audiophiles,50$ - 200$,Wireless,12/23/2022,N/A,40%
+969,Audio Equipment,Smartphones and tablets,Home Goods,Professionals,100$ - 300$,Wireless,9/6/2022,N/A,25%
+970,Accessories,Smartphones and tablets,Electronics,Youth,100$ - 300$,Touchscreen,10/9/2022,N/A,40%
+971,Home Appliances,Speakers and soundbars,Home Goods,General Public,350$ - 500$,Wireless,3/24/2023,N/A,35%
+972,Computing,Smart home devices,Electronics,Professionals,30$ - 99$,Durable,9/19/2022,N/A,5%
+973,Accessories,Laptops and desktops,Electronics,Audiophiles,200$ - 500$,High Performance,12/30/2022,N/A,15%
+974,Audio Equipment,Smart home devices,Electronics,Professionals,350$ - 500$,Wireless,4/2/2023,N/A,15%
+975,Computing,Laptops and desktops,Home Goods,Youth,30$ - 99$,High Performance,2/1/2023,N/A,50%
+976,Mobile Devices,Laptops and desktops,Home Goods,General Public,50$ - 200$,Durable,1/7/2023,N/A,25%
+977,Home Appliances,Headphones and wearables,Electronics,General Public,200$ - 500$,Durable,4/24/2023,N/A,10%
+978,Accessories,Headphones and wearables,Home Goods,Youth,70$ - 310$,Camera,7/11/2022,N/A,25%
+979,Mobile Devices,Smartphones and tablets,Electronics,General Public,30$ - 99$,High Fidelity Audio,6/6/2023,N/A,40%
+980,Accessories,Laptops and desktops,Electronics,Families,70$ - 310$,Durable,3/25/2023,N/A,10%
+981,Home Appliances,Smartphones and tablets,Electronics,Audiophiles,200$ - 500$,Touchscreen,2/21/2023,N/A,20%
+982,Accessories,Headphones and wearables,Home Goods,Families,200$ - 500$,High Performance,5/18/2023,N/A,30%
+983,Computing,Headphones and wearables,Electronics,Professionals,350$ - 500$,Camera,4/19/2023,N/A,35%
+984,Computing,Smart home devices,Electronics,Audiophiles,50$ - 200$,High Fidelity Audio,1/16/2023,N/A,10%
+985,Computing,Speakers and soundbars,Home Goods,Professionals,350$ - 500$,High Performance,9/14/2022,N/A,50%
+986,Accessories,Smart home devices,Electronics,Families,100$ - 300$,Smart Connectivity,5/23/2023,N/A,10%
+987,Home Appliances,Speakers and soundbars,Home Goods,Professionals,100$ - 300$,Camera,2/4/2023,N/A,10%
+988,Accessories,Speakers and soundbars,Electronics,Families,200$ - 500$,Wireless,10/25/2022,N/A,35%
+989,Mobile Devices,Smartphones and tablets,Home Goods,Families,350$ - 500$,Wireless,3/23/2023,N/A,15%
+990,Audio Equipment,Smart home devices,Electronics,General Public,70$ - 310$,Touchscreen,6/6/2023,N/A,15%
+991,Mobile Devices,Headphones and wearables,Electronics,Youth,100$ - 300$,Camera,10/9/2022,N/A,15%
+992,Computing,Smartphones and tablets,Home Goods,Professionals,350$ - 500$,Touchscreen,5/31/2023,N/A,20%
+993,Computing,Laptops and desktops,Electronics,Families,50$ - 200$,Wireless,10/3/2022,N/A,5%
+994,Audio Equipment,Headphones and wearables,Electronics,General Public,100$ - 300$,Wireless,8/21/2022,N/A,40%
+995,Mobile Devices,Laptops and desktops,Home Goods,Youth,70$ - 310$,High Fidelity Audio,2/19/2023,N/A,50%
+996,Computing,Speakers and soundbars,Home Goods,Audiophiles,70$ - 310$,High Performance,2/16/2023,N/A,5%
+997,Mobile Devices,Laptops and desktops,Electronics,Youth,50$ - 200$,Durable,3/24/2023,N/A,15%
+998,Home Appliances,Laptops and desktops,Home Goods,Youth,350$ - 500$,Durable,11/20/2022,N/A,25%
+999,Mobile Devices,Smart home devices,Home Goods,Families,350$ - 500$,Wireless,12/11/2022,N/A,15%
+1000,Home Appliances,Smart home devices,Electronics,Professionals,50$ - 200$,Wireless,3/21/2023,N/A,10%
